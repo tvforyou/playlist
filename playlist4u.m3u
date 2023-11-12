@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdnuploads.aa.com.tr/uploads/Contents/2019/08/08/thumbs_b_c_ce796e74fba47359bf4dc316ab5e3f6f.jpg?v=165257" group-title="Premier League",Bein Sports 1
+#EXTINF:-1 iso-id="QA" tvg-logo="https://cdnuploads.aa.com.tr/uploads/Contents/2019/08/08/thumbs_b_c_ce796e74fba47359bf4dc316ab5e3f6f.jpg?v=165257" group-title="Premier League",Chelsea vs Man United
 https://dms.redbull.tv/v5/destination/rbtv/linear-borb/personal_computer/http/mm/en/playlist.m3u8
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://mma.prnewswire.com/media/945251/LaLiga_Logo.jpg?p=facebook" group-title="LaLiga",Bein Sports 2
@@ -12,10 +12,10 @@ https://dms.redbull.tv/v5/destination/rbtv/linear-borb/personal_computer/http/mm
 #EXTINF:-1 iso-id="QA" tvg-logo="https://upload.wikimedia.org/wikinews/en/thumb/1/15/Bundesliga_logo.svg/1161px-Bundesliga_logo.svg.png" group-title="Bundesliga",Bein Sports 1 ENG 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://i.imgur.com/to78lMq.png" group-title="UEFA",Bein Sports 2 ENG 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://cdnuploads.aa.com.tr/uploads/Contents/2019/08/08/thumbs_b_c_ce796e74fba47359bf4dc316ab5e3f6f.jpg?v=165257" group-title="Premier League",Chelsea vs Man United
 https://dms.redbull.tv/v5/destination/rbtv/linear-borb/personal_computer/http/mm/en/playlist.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://i.imgur.com/78t91f6.png" group-title="UEFA",Bein Sports 3 ENG 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://cdnuploads.aa.com.tr/uploads/Contents/2019/08/08/thumbs_b_c_ce796e74fba47359bf4dc316ab5e3f6f.jpg?v=165257" group-title="Premier League",Chelsea vs Man United 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://i.imgur.com/78t91f6.png" group-title="UEFA",Bein Sports 4 ENG 

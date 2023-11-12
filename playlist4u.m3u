@@ -32,3 +32,6 @@ https://b5yucast.com/tvon.php?hd=431
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://i.imgur.com/78t91f6.png" group-title="UEFA",SportTV 1 
 https://v2.sportsonline.so/channels/pt/sporttv1.php
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://i.imgur.com/78t91f6.png" group-title="UEFA",SportTV 2 
+https://v2.sportsonline.so/channels/pt/sporttv2.php

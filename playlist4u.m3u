@@ -21,3 +21,5 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTINF:-1 iso-id="QA" tvg-logo="https://i.imgur.com/78t91f6.png" group-title="Test",Bein Sports 4 ENG 
 https://player.huminbird.cn/detail.html?v=109&type=1&pid=6&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3957359
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://mma.prnewswire.com/media/945251/LaLiga_Logo.jpg?p=facebook" group-title="Vietnam",Bein Sports 6
+https://pull.niues.live/live/stream-259576_lhd.m3u8

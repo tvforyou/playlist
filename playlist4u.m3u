@@ -4,10 +4,10 @@
 https://headlinessportsfoot.com/chunklist/hlsch7.m3u8
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://mma.prnewswire.com/media/945251/LaLiga_Logo.jpg?p=facebook" group-title="LaLiga",Bein Sports 2
-https://sportsonline.so/channels/hd/hd6.php
+https://hls.streambtw.com/live/stream_1.m3u8
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/03/Serie-A.png" group-title="Serie A",Bein Sports 3
-https://weakspell.org/soccer-streams/lens-vs-sevilla/142974/?embed=true
+https://hls.streambtw.com/live/stream_2.m3u8
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://upload.wikimedia.org/wikinews/en/thumb/1/15/Bundesliga_logo.svg/1161px-Bundesliga_logo.svg.png" group-title="Bundesliga",Bein Sports 1 ENG 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8

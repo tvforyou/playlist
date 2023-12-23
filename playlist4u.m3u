@@ -18,20 +18,20 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTINF:-1 iso-id="QA" tvg-logo="https://cdnuploads.aa.com.tr/uploads/Contents/2019/08/08/thumbs_b_c_ce796e74fba47359bf4dc316ab5e3f6f.jpg?v=165257" group-title="Premier League",EPL Arsenal vs Spur
 https://dms.redbull.tv/v5/destination/rbtv/linear-borb/personal_computer/http/mm/en/playlist.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdnuploads.aa.com.tr/uploads/Contents/2019/08/08/thumbs_b_c_ce796e74fba47359bf4dc316ab5e3f6f.jpg?v=165257" group-title="Premier League",EPL_Man City_vs_Liverpool 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://cdnuploads.aa.com.tr/uploads/Contents/2019/08/08/thumbs_b_c_ce796e74fba47359bf4dc316ab5e3f6f.jpg?v=165257" group-title="Premier League",EPL Man City vs Liverpool 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://i.imgur.com/78t91f6.png" group-title="5. Test",Bein Sports 4 ENG 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://i.imgur.com/78t91f6.png" group-title="Test",Z Bein Sports 4 ENG 
 https://player.huminbird.cn/detail.html?v=109&type=1&pid=6&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4005443
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://mma.prnewswire.com/media/945251/LaLiga_Logo.jpg?p=facebook" group-title="6. Vietnam",Bein Sports 6
+#EXTINF:-1 iso-id="QA" tvg-logo="https://mma.prnewswire.com/media/945251/LaLiga_Logo.jpg?p=facebook" group-title="Vietnam",Z Bein Sports 6
 https://pull.juqihuo.com/live/stream-702514_lhd.flv?auth_key=1702401844-0-0-417d467cbf7e2c4f24862d53e1aa22a4
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://i.imgur.com/78t91f6.png" group-title="7. GoDaddy",Bein Sports 39 ENG 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://i.imgur.com/78t91f6.png" group-title="GoDaddy",X Bein Sports 39 ENG 
 https://pull.juqihuo.com/live/stream-688595_lhd.flv?auth_key=1702402684-0-0-8ac92c3fc30da88323b917c364df661c
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://i.imgur.com/78t91f6.png" group-title="5. Test",Bein Sports 999 ENG 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://i.imgur.com/78t91f6.png" group-title="Test",Y Bein Sports 999 ENG 
 https://pull01.rrwes.live/live/stream-273736_lhd.m3u8?txSecret=111e4aaac291aaee199286baddf59938&txTime=6578dc0d
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://mma.prnewswire.com/media/945251/LaLiga_Logo.jpg?p=facebook" group-title="6. Vietnam",Bein Sports 66
+#EXTINF:-1 iso-id="QA" tvg-logo="https://mma.prnewswire.com/media/945251/LaLiga_Logo.jpg?p=facebook" group-title="Vietnam",X Bein Sports 66
 https://pull.juqihuo.com/live/stream-702514_lhd.flv?auth_key=1702401844-0-0-417d467cbf7e2c4f24862d53e1aa22a4

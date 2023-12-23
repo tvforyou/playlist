@@ -1,21 +1,24 @@
 #EXTM3U
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdnuploads.aa.com.tr/uploads/Contents/2019/08/08/thumbs_b_c_ce796e74fba47359bf4dc316ab5e3f6f.jpg?v=165257" group-title="1. Premier League",Chelsea vs Man United
+#EXTINF:-1 iso-id="QA" tvg-logo="https://cdnuploads.aa.com.tr/uploads/Contents/2019/08/08/thumbs_b_c_ce796e74fba47359bf4dc316ab5e3f6f.jpg?v=165257" group-title="Premier League",EPL Chelsea vs Man United
 https://hls.streambtw.com/live/stream_7.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://mma.prnewswire.com/media/945251/LaLiga_Logo.jpg?p=facebook" group-title="2. LaLiga",Bein Sports 2
+#EXTINF:-1 iso-id="QA" tvg-logo="https://cdnuploads.aa.com.tr/uploads/Contents/2019/08/08/thumbs_b_c_ce796e74fba47359bf4dc316ab5e3f6f.jpg?v=165257" group-title="Premier League",EPL Chelsea vs Man United
+https://hls.streambtw.com/live/stream_7.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://mma.prnewswire.com/media/945251/LaLiga_Logo.jpg?p=facebook" group-title="LaLiga",LLG Real madrid vs Barcelona
 https://hls.streambtw.com/live/stream_1.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/03/Serie-A.png" group-title="3. Serie A",Bein Sports 3
+#EXTINF:-1 iso-id="QA" tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/03/Serie-A.png" group-title="Serie A",SRA AC Milan vs Juventus
 https://hls.streambtw.com/live/stream_2.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://upload.wikimedia.org/wikinews/en/thumb/1/15/Bundesliga_logo.svg/1161px-Bundesliga_logo.svg.png" group-title="4. Bundesliga",Bein Sports 1 ENG 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://upload.wikimedia.org/wikinews/en/thumb/1/15/Bundesliga_logo.svg/1161px-Bundesliga_logo.svg.png" group-title="Bundesliga",GBL Bayern vs Dortmund 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdnuploads.aa.com.tr/uploads/Contents/2019/08/08/thumbs_b_c_ce796e74fba47359bf4dc316ab5e3f6f.jpg?v=165257" group-title="1. Premier League",Arsenal vs Spur
+#EXTINF:-1 iso-id="QA" tvg-logo="https://cdnuploads.aa.com.tr/uploads/Contents/2019/08/08/thumbs_b_c_ce796e74fba47359bf4dc316ab5e3f6f.jpg?v=165257" group-title="Premier League",EPL Arsenal vs Spur
 https://dms.redbull.tv/v5/destination/rbtv/linear-borb/personal_computer/http/mm/en/playlist.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdnuploads.aa.com.tr/uploads/Contents/2019/08/08/thumbs_b_c_ce796e74fba47359bf4dc316ab5e3f6f.jpg?v=165257" group-title="1. Premier League",Man City vs Liverpool 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://cdnuploads.aa.com.tr/uploads/Contents/2019/08/08/thumbs_b_c_ce796e74fba47359bf4dc316ab5e3f6f.jpg?v=165257" group-title="Premier League",EPL_Man City_vs_Liverpool 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://i.imgur.com/78t91f6.png" group-title="5. Test",Bein Sports 4 ENG 

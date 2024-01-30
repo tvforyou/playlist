@@ -39,4 +39,33 @@ https://www.youtube.com/embed/jhs1GXdU_jU?si=neGhIKMCC5daAhdy
 #EXTINF:-1 iso-id="QA" tvg-logo="https://mma.prnewswire.com/media/945251/LaLiga_Logo.jpg?p=facebook" group-title="Vietnam",Z Example 12
 https://hls.streambtw.com/live/stream_11.m3u8
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn.britannica.com/47/148847-050-C4FB5341/Cricket-bat-ball.jpg" group-title="CRICKET 24/7",CRICKET 1
+https://hls.streambtw.com/live/stream_e1.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://media.designrush.com/inspirations/129849/conversions/_1615382341_669_NBA-logo-preview.jpg" group-title="NBA",NBA 1
+https://hls.streambtw.com/live/stream_nba1.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://media.designrush.com/inspirations/129849/conversions/_1615382341_669_NBA-logo-preview.jpg" group-title="NBA",NBA 2
+https://hls.streambtw.com/live/stream_nba2.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://media.designrush.com/inspirations/129849/conversions/_1615382341_669_NBA-logo-preview.jpg" group-title="NBA",NBA 3
+https://hls.streambtw.com/live/stream_nba3.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://media.designrush.com/inspirations/129849/conversions/_1615382341_669_NBA-logo-preview.jpg" group-title="NBA",NBA 4
+https://hls.streambtw.com/live/stream_nba4.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://media.designrush.com/inspirations/129849/conversions/_1615382341_669_NBA-logo-preview.jpg" group-title="NBA",NBA 5
+https://hls.streambtw.com/live/stream_nba5.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://media.designrush.com/inspirations/129849/conversions/_1615382341_669_NBA-logo-preview.jpg" group-title="NBA",NBA 6
+https://hls.streambtw.com/live/stream_nba6.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://media.designrush.com/inspirations/129849/conversions/_1615382341_669_NBA-logo-preview.jpg" group-title="NBA",NBA 7
+https://hls.streambtw.com/live/stream_nba7.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://media.designrush.com/inspirations/129849/conversions/_1615382341_669_NBA-logo-preview.jpg" group-title="NBA",NBA 8
+https://hls.streambtw.com/live/stream_nba8.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://media.designrush.com/inspirations/129849/conversions/_1615382341_669_NBA-logo-preview.jpg" group-title="NBA",NBA 9
+https://hls.streambtw.com/live/stream_nba9.m3u8
 

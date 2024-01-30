@@ -82,3 +82,7 @@ https://hls.streambtw.com/live/stream_nba8.m3u8
 #EXTINF:-1 iso-id="QA" tvg-logo="https://media.designrush.com/inspirations/129849/conversions/_1615382341_669_NBA-logo-preview.jpg" group-title="NBA",NBA 09
 https://hls.streambtw.com/live/stream_nba9.m3u8
 
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://media.designrush.com/inspirations/129849/conversions/_1615382341_669_NBA-logo-preview.jpg" group-title="Live Event", SA vs SK
+https://play1nm.hnyongshun.cn/live/hd-zh-x7lm7ph36ggpm2w.m3u8
+

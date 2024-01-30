@@ -1,43 +1,43 @@
 #EXTM3U
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdnuploads.aa.com.tr/uploads/Contents/2019/08/08/thumbs_b_c_ce796e74fba47359bf4dc316ab5e3f6f.jpg?v=165257" group-title="Premier League",EPL Example 1
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Football",Football 1
 https://hls.streambtw.com/live/stream_1.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdnuploads.aa.com.tr/uploads/Contents/2019/08/08/thumbs_b_c_ce796e74fba47359bf4dc316ab5e3f6f.jpg?v=165257" group-title="Premier League",EPL Example 2
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Football",Football 2
 https://hls.streambtw.com/live/stream_2.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://mma.prnewswire.com/media/945251/LaLiga_Logo.jpg?p=facebook" group-title="LaLiga",LLG Example 3
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Football",Football 3
 https://hls.streambtw.com/live/stream_3.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/03/Serie-A.png" group-title="Serie A",SRA Example 4
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Football",Football 4
 https://hls.streambtw.com/live/stream_4.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://upload.wikimedia.org/wikinews/en/thumb/1/15/Bundesliga_logo.svg/1161px-Bundesliga_logo.svg.png" group-title="Bundesliga",GBL Example 5
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Football",Football 5
 https://hls.streambtw.com/live/stream_5.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdnuploads.aa.com.tr/uploads/Contents/2019/08/08/thumbs_b_c_ce796e74fba47359bf4dc316ab5e3f6f.jpg?v=165257" group-title="Premier League",EPL Example 6
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Football",Football 6
 https://hls.streambtw.com/live/stream_6.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdnuploads.aa.com.tr/uploads/Contents/2019/08/08/thumbs_b_c_ce796e74fba47359bf4dc316ab5e3f6f.jpg?v=165257" group-title="Premier League",EPL Example 7
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Football",Football 7
 https://hls.streambtw.com/live/stream_7.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://i.imgur.com/78t91f6.png" group-title="Test",Z Example 8 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Football",Football 8 
 https://hls.streambtw.com/live/stream_8.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://mma.prnewswire.com/media/945251/LaLiga_Logo.jpg?p=facebook" group-title="Vietnam",Z Example 9
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Football",Football 9
 https://hls.streambtw.com/live/stream_9.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://i.imgur.com/78t91f6.png" group-title="GoDaddy",Z Example 10
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Football",Football 10
 https://hls.streambtw.com/live/stream_10.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://i.imgur.com/78t91f6.png" group-title="Test",Z Example 11
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Football",Football 11
 https://hls.streambtw.com/live/stream_11.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://mma.prnewswire.com/media/945251/LaLiga_Logo.jpg?p=facebook" group-title="Vietnam",Z Example 12
-https://www.youtube.com/embed/jhs1GXdU_jU?si=neGhIKMCC5daAhdy
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Football",Football 12
+https://hls.streambtw.com/live/stream_12.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://mma.prnewswire.com/media/945251/LaLiga_Logo.jpg?p=facebook" group-title="Vietnam",Z Example 13
-https://hls.streambtw.com/live/stream_11.m3u8
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Football",Football 13
+https://hls.streambtw.com/live/stream_13.m3u8
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://cdn.britannica.com/47/148847-050-C4FB5341/Cricket-bat-ball.jpg" group-title="CRICKET 24/7",CRICKET 1
 https://hls.streambtw.com/live/stream_e1.m3u8

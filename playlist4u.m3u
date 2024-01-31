@@ -94,3 +94,9 @@ https://hls.streambtw.com/live/stream_2.m3u8
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",03 Liverpool vs Chelsea
 https://hls.streambtw.com/live/stream_3.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",06 Barcelona vs Osasuna
+https://hls.streambtw.com/live/stream_6.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",06 Atlético Madrid vs Rayo Vallecano
+https://hls.streambtw.com/live/stream_6.m3u8

@@ -116,9 +116,3 @@ https://hls.streambtw.com/live/stream_6.m3u8
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",06 Atlético vs Vallecano (VN)
 https://pull.niues.live/live/stream-237299_lhd.m3u8?auth_key=1706722448-0-0-47525f407444808c1c742cd65ff00154
 
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="AFC Cup",05 Iran vs Syria
-https://hls.streambtw.com/live/stream_5.m3u8
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="AFC Cup",05 Iran vs Syria (VN)
-https://pull01.rrwes.live/live/stream-9912060_lhd.m3u8?txSecret=44602a6b2c621632f4754c74aa2b1471&txTime=65bac75c

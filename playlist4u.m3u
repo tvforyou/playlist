@@ -83,3 +83,14 @@ https://hls.streambtw.com/live/stream_nba8.m3u8
 https://hls.streambtw.com/live/stream_nba9.m3u8
 
 	
+
+
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Football",01 Tottenham Hotspur vs Brentford
+https://hls.streambtw.com/live/stream_1.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Football",02 Manchester City vs Burnley
+https://hls.streambtw.com/live/stream_2.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Football",03 Liverpool vs Chelsea
+https://hls.streambtw.com/live/stream_3.m3u8

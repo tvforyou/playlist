@@ -86,33 +86,26 @@ https://hls.streambtw.com/live/stream_nba9.m3u8
 
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",01 Tottenham vs Brentford
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",01 West Ham vs Bournemouth
 https://hls.streambtw.com/live/stream_1.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",01 Tottenham vs Brentford (VN)
-https://pull01.rrwes.live/live/stream-9912038_lhd.m3u8?txSecret=94c96f2063e3d1aa5ea6b99c6405dc34&txTime=65bac9f0
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",02 Man City vs Burnley
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",02 Wolves vs Man United
 https://hls.streambtw.com/live/stream_2.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",02 Man City vs Burnley (VN)
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1706721865-0-0-909499ee8d6958a563ab9a5cea5a5b8a
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",03 Liverpool vs Chelsea
+
+
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",03 Getafe vs Real Madrid
 https://hls.streambtw.com/live/stream_3.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",03 Liverpool vs Chelsea (VN)
-https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=ee32506128a884e5883171f043176622&txTime=65baf36c
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",06 Barcelona vs Osasuna
-https://headlinessportsfoot.com/chunklist/hlsch4.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",06 Barcelona vs Osasuna (VN)
-https://pull01.rrwes.live/live/stream-400798_lhd.m3u8?txSecret=576cb8cd1ef824832344278107f4d97a&txTime=65badf80
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",06 Atlético vs Vallecano
-https://hls.streambtw.com/live/stream_6.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",06 Atlético vs Vallecano (VN)
-https://pull.niues.live/live/stream-237299_lhd.m3u8?auth_key=1706722448-0-0-47525f407444808c1c742cd65ff00154
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Riyadh Season Cup",04 Al-Nassr vs Inter Miami CF
+https://hls.streambtw.com/live/stream_4.m3u8
+
+
 

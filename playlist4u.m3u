@@ -96,7 +96,6 @@ https://hls.streambtw.com/live/stream_1.m3u8
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",02 Wolves vs Man United
 https://hls.streambtw.com/live/stream_2.m3u8
 
-
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",02 Wolves vs Man United (VN)
 https://pull01.rrwes.live/live/stream-9912075_lhd.m3u8?txSecret=0281b014d60b7a77b01206bd3d008f2a&txTime=65baca68
 
@@ -104,9 +103,9 @@ https://pull01.rrwes.live/live/stream-9912075_lhd.m3u8?txSecret=0281b014d60b7a77
 
 
 
+
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",03 Getafe vs Real Madrid
 https://hls.streambtw.com/live/stream_3.m3u8
-
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",03 Getafe vs Real Madrid (VN)
 https://pull.niues.live/live/stream-9912043_lhd.m3u8?auth_key=1706717684-0-0-4139a3ef914ac1f651b48d5f690062f3

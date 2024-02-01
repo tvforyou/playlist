@@ -85,7 +85,7 @@ https://hls.streambtw.com/live/stream_nba9.m3u8
 	
 
 
-EPL
+
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",01 West Ham vs Bournemouth
 https://hls.streambtw.com/live/stream_1.m3u8
@@ -96,7 +96,7 @@ https://hls.streambtw.com/live/stream_2.m3u8
 
 
 
-LaLiga
+
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",03 Getafe vs Real Madrid
 https://hls.streambtw.com/live/stream_3.m3u8
@@ -104,7 +104,7 @@ https://hls.streambtw.com/live/stream_3.m3u8
 
 
 
-Riyadh Season Cup
+
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Riyadh Season Cup",04 Al-Nassr vs Inter Miami CF
 https://hls.streambtw.com/live/stream_4.m3u8

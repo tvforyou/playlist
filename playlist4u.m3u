@@ -88,16 +88,16 @@ https://hls.streambtw.com/live/stream_nba9.m3u8
 
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="AFC",01 Tajikistan Vs Jordan
-https://hls.streambtw.com/live/stream_1.m3u8
+https://pull01.rrwes.live/live/stream-9912042_lhd.m3u8?txSecret=df6e30c93c58fbad3e71a01522c539ff&txTime=65bcc7b4
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="AFC",02 Australia Vs South Korea
-https://hls.streambtw.com/live/stream_1.m3u8
+https://pull01.rrwes.live/live/stream-9912038_lhd.m3u8?txSecret=94c96f2063e3d1aa5ea6b99c6405dc34&txTime=65bac9f0
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",03 FC Heidenheim Vs  Dortmund
-https://linecrystal.com/n-2.m3u8	
+https://pull01.rrwes.live/live/stream-9912086_lhd.m3u8?txSecret=62da67033440b88b40edb99af95ec6f0&txTime=65baea0c
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",04 Lecce Vs Fiorentina 
-https://pull.niues.live/live/stream-9912085_lhd.m3u8?auth_key=1706819108-0-0-362de50d30477b34fa3fb382ede647fa
+https://pull.niues.live/live/stream-387295_lhd.m3u8?auth_key=1706852888-0-0-d2e4e81b72a9942fc0614ef507250bbf
 
 
 

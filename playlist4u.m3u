@@ -87,37 +87,30 @@ https://hls.streambtw.com/live/stream_nba9.m3u8
 
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",01 West Ham vs Bournemouth
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="AFC",01 Tajikistan Vs Jordan
 https://hls.streambtw.com/live/stream_1.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",01 West Ham vs Bournemouth (VN)
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="AFC",02 Australia Vs South Korea
 https://hls.streambtw.com/live/stream_1.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",02 Wolves vs Man United
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",03 FC Heidenheim Vs  Dortmund
 https://linecrystal.com/n-2.m3u8	
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",02 Wolves vs Man United (VN)
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",04 Lecce Vs Fiorentina 
 https://pull.niues.live/live/stream-9912085_lhd.m3u8?auth_key=1706819108-0-0-362de50d30477b34fa3fb382ede647fa
 
 
 
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",03 Getafe vs Real Madrid
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",05 Athletic Club Vs Mallorca
 https://talkstream.pro/hls/2rLw5eAhNM/index.m3u8?st=p1yFCVGYe_ZTmfB5NeyleQ&e=1706828342
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",03 Getafe vs Real Madrid (VN)
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",06 Strasbourg Vs PSG
 https://pull.niues.live/live/stream-9912043_lhd.m3u8?auth_key=1706717684-0-0-4139a3ef914ac1f651b48d5f690062f3
 
 
 
 
-
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Riyadh Season Cup",04 Al-Nassr vs Inter Miami CF
-https://xoilac.plvb.xyz/ajax/chanel/type/1/link/9l7x9pa
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Riyadh Season Cup",04 Al-Nassr vs Inter Miami CF (VN)
-https://pull01.rrwes.live/live/stream-9912015_lhd.m3u8?txSecret=22da03b9bdb29260321e4ac56932de8a&txTime=65bc2ea8
 
 

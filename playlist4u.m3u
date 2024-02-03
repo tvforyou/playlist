@@ -37,9 +37,6 @@ https://hls.streambtw.com/live/stream_3.m3u8
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",04 Newcastle vs Luton Town (VN)
 https://pull01.rrwes.live/live/stream-9912060_lhd.m3u8?txSecret=05f3921149d93a614c6144abf3ed5df6&txTime=65be9440
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",04 Newcastle vs Luton Town (VN 2)
-https://pull01.rrwes.live/live/stream-9912041_lhd.m3u8?txSecret=203611620729bd32e138d87b87103e32&txTime=65be81bc
-
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",05 Sheffield vs Aston Villa
 https://hls.streambtw.com/live/stream_1.m3u8
 

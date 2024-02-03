@@ -16,6 +16,9 @@ http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",01 Everton vs Tottenham
 https://hls.streambtw.com/live/stream_1.m3u8
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",01 Everton vs Tottenham (VN)
+https://pull01.rrwes.live/live/stream-9912041_lhd.m3u8?txSecret=203611620729bd32e138d87b87103e32&txTime=65be81bc
+
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",02 Brighton vs Palace
 https://hls.streambtw.com/live/stream_1.m3u8
 
@@ -24,6 +27,9 @@ https://hls.streambtw.com/live/stream_2.m3u8
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",04 Newcastle vs Luton Town
 https://hls.streambtw.com/live/stream_3.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",04 Newcastle vs Luton Town (VN)
+https://pull01.rrwes.live/live/stream-9912041_lhd.m3u8?txSecret=203611620729bd32e138d87b87103e32&txTime=65be81bc
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",05 Sheffield vs Aston Villa
 https://hls.streambtw.com/live/stream_1.m3u8

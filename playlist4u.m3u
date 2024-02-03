@@ -22,6 +22,9 @@ https://pull01.rrwes.live/live/stream-9912041_lhd.m3u8?txSecret=203611620729bd32
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",02 Brighton vs Palace
 https://hls.streambtw.com/live/stream_1.m3u8
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",02 Brighton vs Palace (VN)
+https://pull.niues.live/live/stream-499765_lhd.m3u8?auth_key=1706971310-0-0-bb7729827c20c6c2b4f17dbd72c00cba
+
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",03 Burnley vs Fulham
 https://hls.streambtw.com/live/stream_2.m3u8
 
@@ -40,7 +43,8 @@ https://pull01.rrwes.live/live/stream-9912041_lhd.m3u8?txSecret=203611620729bd32
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",05 Sheffield vs Aston Villa
 https://hls.streambtw.com/live/stream_1.m3u8
 
-
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",05 Sheffield vs Aston Villa (VN)
+https://pull.niues.live/live/stream-499765_lhd.m3u8?auth_key=1706971310-0-0-bb7729827c20c6c2b4f17dbd72c00cba
 
 
 
@@ -58,6 +62,9 @@ https://pull01.rrwes.live/live/stream-353417_lhd.m3u8?txSecret=ccb4c6484b762e336
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",08 Frosinone vs Milan
 https://hls.streambtw.com/live/stream_7.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",08 Frosinone vs Milan (VN)
+https://pull01.rrwes.live/live/stream-9912032_lhd.m3u8?txSecret=31e8a287034a0a890ede273b8aa468fa&txTime=65be853c
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",09 Bologna vs Sassuolo
 https://hls.streambtw.com/live/stream_7.m3u8

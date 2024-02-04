@@ -1,23 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",01 Bournemouth vs Nottingham Forest
-https://hls.streambtw.com/live/stream_1.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",01 Bournemouth vs Nottingham Forest (VN)
-https://pull01.rrwes.live/live/stream-991140_lhd.m3u8?txSecret=9a6a0859f35ccac80e2f24be5aad1b81&txTime=65bfcbf8
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",02 Chelsea vs Wolverhampton
-https://play1nm.hnyongshun.cn/live/hd-zh-pxwrxlhx4oz8ryk.m3u8
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",02 Chelsea vs Wolverhampton (VN)
-https://pull01.rrwes.live/live/stream-9912015_lhd.m3u8?txSecret=c1d10deb446ad908f00ed9f24915ee74&txTime=65bfcd9c
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",03 Manchester United vs West Ham United
-https://play1nm.hnyongshun.cn/live/hd-zh-vjxm8gh516pzr6o.m3u8
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",03 Manchester United vs West Ham United (VN)
-https://pull01.rrwes.live/live/stream-9912075_lhd.m3u8?txSecret=a3a28cbeb48cec9438614779dda5a179&txTime=65bfecc8
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",04 Arsenal vs Liverpool
 https://wenkisterin.latsyoving.xyz/live/n-1/chunks.m3u8

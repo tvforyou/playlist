@@ -53,11 +53,7 @@ https://pull.niues.live/live/stream-9912084_lhd.m3u8?auth_key=1707051248-0-0-c68
 
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",13 VfL Wolfsburg vs TSG Hoffenheim
-https://hls.streambtw.com/live/stream_9.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",13 VfL Wolfsburg vs TSG Hoffenheim (VN)
-https://pull.niues.live/live/stream-434982_lhd.m3u8?auth_key=1707041256-0-0-183645499d7ad2887833fd8b0a0546a4
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",14 RB Leipzig vs 1. FC Union Berlin
 https://hls.streambtw.com/live/stream_9.m3u8
@@ -68,29 +64,7 @@ https://pull.niues.live/live/stream-9911957_lhd.m3u8?auth_key=1707050588-0-0-e32
 
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Ligue 1",15 AS Monaco vs Le Havre
-https://hls.streambtw.com/live/stream_8.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Ligue 1",15 AS Monaco vs Le Havre (VN)
-https://pull.niues.live/live/stream-9911957_lhd.m3u8?auth_key=1707050588-0-0-e325d472aeb15c52855ea7d8c741559e
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Ligue 1",16 Lille vs Clermont Foot
-https://hls.streambtw.com/live/stream_8.m3u8
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Ligue 1",16 Lille vs Clermont Foot (VN)
-https://pull01.rrwes.live/live/stream-9912035_lhd.m3u8?txSecret=a9b4b1440c93351511f1b24f3c730d1a&txTime=65bfcec8
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Ligue 1",17 Metz vs Lorient
-https://hls.streambtw.com/live/stream_12.m3u8
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Ligue 1",17 Metz vs Lorient (VN)
-https://pull01.rrwes.live/live/stream-9912034_lhd.m3u8?txSecret=7c4c22a12eac6041c3ff68182e13f5d5&txTime=65bf986f
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Ligue 1",18 Stade de Reims vs Toulouse
-https://hls.streambtw.com/live/stream_11.m3u8
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Ligue 1",18 Stade de Reims vs Toulouse (VN)
-https://pull.niues.live/live/stream-261808_lhd.m3u8?auth_key=1707051428-0-0-b174a18e33f5ebaf4f1307e637e276a3
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Ligue 1",19 Stade Brestois vs Nice
 https://hls.streambtw.com/live/stream_8.m3u8

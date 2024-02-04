@@ -13,8 +13,14 @@ https://hls.streambtw.com/live/stream_2.m3u8
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",03 Manchester United vs West Ham United
 https://hls.streambtw.com/live/stream_3.m3u8
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",03 Manchester United vs West Ham United (VN)
+https://pull01.rrwes.live/live/stream-9912060_lhd.m3u8?txSecret=482e421c727fe56568e7d0036b4c8ad6&txTime=65bfcc70
+
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",04 Arsenal vs Liverpool
 https://hls.streambtw.com/live/stream_4.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",04 Arsenal vs Liverpool (VN)
+https://pull01.rrwes.live/live/stream-9912060_lhd.m3u8?txSecret=482e421c727fe56568e7d0036b4c8ad6&txTime=65bfcc70
 
 
 

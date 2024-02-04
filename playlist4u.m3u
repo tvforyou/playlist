@@ -10,6 +10,9 @@ https://pull01.rrwes.live/live/stream-991140_lhd.m3u8?txSecret=9a6a0859f35ccac80
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",02 Chelsea vs Wolverhampton
 https://hls.streambtw.com/live/stream_2.m3u8
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",02 Chelsea vs Wolverhampton (VN)
+https://pull01.rrwes.live/live/stream-9912015_lhd.m3u8?txSecret=c1d10deb446ad908f00ed9f24915ee74&txTime=65bfcd9c
+
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",03 Manchester United vs West Ham United
 https://hls.streambtw.com/live/stream_3.m3u8
 
@@ -32,11 +35,20 @@ https://hls.streambtw.com/live/stream_6.m3u8
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",06 Osasuna vs Celta Vigo
 https://hls.streambtw.com/live/stream_6.m3u8
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",06 Osasuna vs Celta Vigo (VN)
+https://pull.niues.live/live/stream-9912007_lhd.m3u8?auth_key=1707050888-0-0-0f0c67b034be0ea14f76da1dfa470a0f
+
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",07 Real Betis vs Getafe
 https://hls.streambtw.com/live/stream_6.m3u8
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",07 Real Betis vs Getafe (VN)
+https://pull01.rrwes.live/live/stream-9912016_lhd.m3u8?txSecret=db0609c25a7d47a0e03986757337bc62&txTime=65bfce14
+
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",08 Real Madrid vs Atlético Madrid
 https://hls.streambtw.com/live/stream_6.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",08 Real Madrid vs Atlético Madrid (VN)
+https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1707051008-0-0-498a1055de2c94dbfa3376583a5b8660
 
 
 
@@ -48,6 +60,9 @@ https://pull01.rrwes.live/live/stream-991140_lhd.m3u8?txSecret=9a6a0859f35ccac80
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",10 Napoli vs Hellas Verona
 https://hls.streambtw.com/live/stream_7.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",10 Napoli vs Hellas Verona (VN)
+https://pull01.rrwes.live/live/stream-171964_lhd.m3u8?txSecret=f7647fab8f109b91560317336cd620c6&txTime=65bfcd60
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",11 Atalanta vs Lazio
 https://hls.streambtw.com/live/stream_7.m3u8
@@ -81,6 +96,9 @@ https://pull.niues.live/live/stream-9911957_lhd.m3u8?auth_key=1707050588-0-0-e32
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Ligue 1",16 Lille vs Clermont Foot
 https://hls.streambtw.com/live/stream_8.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Ligue 1",16 Lille vs Clermont Foot (VN)
+https://pull01.rrwes.live/live/stream-9912035_lhd.m3u8?txSecret=a9b4b1440c93351511f1b24f3c730d1a&txTime=65bfcec8
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Ligue 1",17 Metz vs Lorient
 https://hls.streambtw.com/live/stream_12.m3u8

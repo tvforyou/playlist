@@ -32,6 +32,9 @@ https://pull01.rrwes.live/live/stream-9912060_lhd.m3u8?txSecret=482e421c727fe565
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",05 Villarreal vs Cádiz
 https://hls.streambtw.com/live/stream_6.m3u8
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",05 Villarreal vs Cádiz (VN)
+https://pull.niues.live/live/stream-400798_lhd.m3u8?auth_key=1707037278-0-0-466efdcc9ce8c6e4d25c4d048bffb76f
+
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",06 Osasuna vs Celta Vigo
 https://hls.streambtw.com/live/stream_6.m3u8
 
@@ -73,11 +76,18 @@ https://pull01.rrwes.live/live/stream-991140_lhd.m3u8?txSecret=9a6a0859f35ccac80
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",12 Inter vs Juventus
 https://hls.streambtw.com/live/stream_7.m3u8
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",12 Inter vs Juventus (VN)
+https://pull.niues.live/live/stream-9912084_lhd.m3u8?auth_key=1707051248-0-0-c68db27002e8a61c3b2c3f8a9cda3390
+
+
 
 
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",13 VfL Wolfsburg vs TSG Hoffenheim
 https://hls.streambtw.com/live/stream_9.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",13 VfL Wolfsburg vs TSG Hoffenheim (VN)
+https://pull.niues.live/live/stream-434982_lhd.m3u8?auth_key=1707041256-0-0-183645499d7ad2887833fd8b0a0546a4
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",14 RB Leipzig vs 1. FC Union Berlin
 https://hls.streambtw.com/live/stream_9.m3u8
@@ -103,15 +113,26 @@ https://pull01.rrwes.live/live/stream-9912035_lhd.m3u8?txSecret=a9b4b1440c933515
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Ligue 1",17 Metz vs Lorient
 https://hls.streambtw.com/live/stream_12.m3u8
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Ligue 1",17 Metz vs Lorient (VN)
+https://pull01.rrwes.live/live/stream-9912034_lhd.m3u8?txSecret=7c4c22a12eac6041c3ff68182e13f5d5&txTime=65bf986f
+
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Ligue 1",18 Stade de Reims vs Toulouse
 https://hls.streambtw.com/live/stream_11.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Ligue 1",18 Stade de Reims vs Toulouse (VN)
+https://pull.niues.live/live/stream-261808_lhd.m3u8?auth_key=1707051428-0-0-b174a18e33f5ebaf4f1307e637e276a3
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Ligue 1",19 Stade Brestois vs Nice
 https://hls.streambtw.com/live/stream_8.m3u8
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Ligue 1",19 Stade Brestois vs Nice (VN)
+https://pull.niues.live/live/stream-9912003_lhd.m3u8?auth_key=1707051548-0-0-337c7d29fa723f2a8f99ccf209d028e7
+
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Ligue 1",20 Olympique Lyonnais vs Olympique de Marseille
 https://hls.streambtw.com/live/stream_8.m3u8
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Ligue 1",20 Olympique Lyonnais vs Olympique de Marseille (VN)
+https://pull01.rrwes.live/live/stream-475494_lhd.m3u8?txSecret=54dde09039aa17d792def7bedf07a029&txTime=65bfd0a8
 
 
 

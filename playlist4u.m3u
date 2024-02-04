@@ -4,6 +4,9 @@
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",01 Bournemouth vs Nottingham Forest
 https://hls.streambtw.com/live/stream_1.m3u8
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",01 Bournemouth vs Nottingham Forest (VN)
+https://pull01.rrwes.live/live/stream-991140_lhd.m3u8?txSecret=9a6a0859f35ccac80e2f24be5aad1b81&txTime=65bfcbf8
+
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",02 Chelsea vs Wolverhampton
 https://hls.streambtw.com/live/stream_2.m3u8
 
@@ -34,11 +37,17 @@ https://hls.streambtw.com/live/stream_6.m3u8
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",09 Torino vs Salernitana
 https://hls.streambtw.com/live/stream_7.m3u8
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",09 Torino vs Salernitana (VN)
+https://pull01.rrwes.live/live/stream-991140_lhd.m3u8?txSecret=9a6a0859f35ccac80e2f24be5aad1b81&txTime=65bfcbf8
+
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",10 Napoli vs Hellas Verona
 https://hls.streambtw.com/live/stream_7.m3u8
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",11 Atalanta vs Lazio
 https://hls.streambtw.com/live/stream_7.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",11 Atalanta vs Lazio (VN)
+https://pull01.rrwes.live/live/stream-991140_lhd.m3u8?txSecret=9a6a0859f35ccac80e2f24be5aad1b81&txTime=65bfcbf8
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",12 Inter vs Juventus
 https://hls.streambtw.com/live/stream_7.m3u8

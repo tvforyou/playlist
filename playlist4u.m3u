@@ -6,10 +6,14 @@
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",01 Brentford vs Manchester City
 https://hls.streambtw.com/live/stream_1.m3u8
 
-
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",01 Brentford vs Manchester City (VN)
+https://hls.streambtw.com/live/stream_1.m3u8
 
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",02 Roma vs Cagliari
+https://hls.streambtw.com/live/stream_1.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",02 Roma vs Cagliari (VN)
 https://hls.streambtw.com/live/stream_1.m3u8
 
 
@@ -18,6 +22,9 @@ https://hls.streambtw.com/live/stream_1.m3u8
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",03 Rayo Vallecano vs Sevilla
 https://hls.streambtw.com/live/stream_1.m3u8
 
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",03 Rayo Vallecano vs Sevilla (VN)
+https://hls.streambtw.com/live/stream_1.m3u8
 
 
 

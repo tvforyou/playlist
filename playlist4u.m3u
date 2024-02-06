@@ -12,6 +12,8 @@ https://pull.niues.live/live/stream-9912047_lhd.m3u8?auth_key=1706959208-0-0-344
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="AFC",01 Jordan Vs South Korea (Arabic)
 https://shora-streams.com/chunklist/hlsch1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjQgMjoyMDoxMiBQTSZoYXNoX3ZhbHVlPUJkR2J1NUEvU1FScHdhT2dGaWN0Tnc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTUuMjEuMTQwLjE1JnN0cm1fbGVuPTU=
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="AFC",01 Jordan Vs South Korea (Arabic 2)
+https://games.ok.ru/video/7922975514193
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="DFB Pokal Quarter-final",02 Bayer Leverkusen Vs VfB Stuttgart
 https://hls.streambtw.com/live/stream_9.m3u8

@@ -14,7 +14,7 @@ https://pull.niues.live/live/stream-9912047_lhd.m3u8?auth_key=1706959208-0-0-344
 https://hls.streambtw.com/live/stream_9.m3u8
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="DFB Pokal Quarter-final",02 Bayer Leverkusen Vs VfB Stuttgart (VN)
-https://hls.streambtw.com/live/stream_9.m3u8
+https://pull.niues.live/live/stream-9912084_lhd.m3u8?auth_key=1707234009-0-0-94f4e9285668a2431228c62138701e0d
 
 
 
@@ -24,13 +24,14 @@ https://hls.streambtw.com/live/stream_6.m3u8
 
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Copa del Rey Semi-final",03 Mallorca Vs Real Sociedad (VN)
-https://hls.streambtw.com/live/stream_6.m3u8
-
+https://pull.niues.live/live/stream-9912080_lhd.m3u8?auth_key=1707234009-0-0-7c0c3d708375b37e683e56096f6fc119
 
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="FA Cup",04 Southampton vs Watford
 https://hls.streambtw.com/live/stream_3.m3u8
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="FA Cup",04 Southampton vs Watford (VN)
+https://hls.streambtw.com/live/stream_3.m3u8
 
 
 

@@ -12,40 +12,27 @@ https://pull.niues.live/live/stream-9912047_lhd.m3u8?auth_key=1706959208-0-0-344
 
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="DFB Pokal Quarter-final",02 Mainz Vs Union Berlin
-https://hls.streambtw.com/live/stream_9.m3u8
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",02 Borussia Dortmund Vs Freiburg
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1707493989-0-0-6c0460cb72f24694bef0ab1949f29a73
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="DFB Pokal Quarter-final",02 Mainz Vs Union Berlin (VN)
-https://pull.niues.live/live/stream-9912084_lhd.m3u8?auth_key=1707234009-0-0-94f4e9285668a2431228c62138701e0d
-
-
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",02 Borussia Dortmund Vs Freiburg (VN)
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1707493989-0-0-6c0460cb72f24694bef0ab1949f29a73
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Copa del Rey Semi-final",03 Atletico Madrid Vs Athletic Club
-https://hls.streambtw.com/live/stream_6.m3u8
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",03 Cadiz Vs Real Betis
+https://pull01.rrwes.live/live/stream-462413_lhd.m3u8?txSecret=ab4ae6f7ca46a83076c6bbf589e41a80&txTime=65c69259
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Copa del Rey Semi-final",03 Atletico Madrid Vs Athletic Club (VN)
-https://pull.niues.live/live/stream-278654_lhd.m3u8?auth_key=1707325689-0-0-ef93138b87928c5aaea842dba79dd414
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",03 Cadiz Vs Real Betis (VN)
+https://pull01.rrwes.live/live/stream-462413_lhd.m3u8?txSecret=ab4ae6f7ca46a83076c6bbf589e41a80&txTime=65c69259
 
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="FA Cup",04 Aston Villa Vs Chelsea
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",04 Salernitana Vs Empoli
 https://hls.streambtw.com/live/stream_1.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="FA Cup",04 Aston Villa Vs Chelsea (VN)
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",04 Salernitana Vs Empoli (VN)
 https://pull01.rrwes.live/live/stream-9912086_lhd.m3u8?txSecret=3369249d1d944d2f4e94dfdbf79aa823&txTime=65c3fad5
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="FA Cup",05 Nottingham Forest Vs Bristol City
-https://hls.streambtw.com/live/stream_2.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="FA Cup",05 Nottingham Forest Vs Bristol City (VN)
-https://hls.streambtw.com/live/stream_2.m3u8
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Coupe de France",06 PSG Vs Brest
-https://hls.streambtw.com/live/stream_8.m3u8
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Coupe de France",06 PSG Vs Brest (VN)
-https://pull.niues.live/live/stream-9912052_lhd.m3u8?auth_key=1707324669-0-0-a10463e080b7087e2298478e720dc32c
 
 
 

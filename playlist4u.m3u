@@ -45,10 +45,10 @@ https://hls.streambtw.com/live/stream_7.m3u8
 
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A ",11 Roma Vs Inter
-https://pull01.rrwes.live/live/stream-9912086_lhd.m3u8?txSecret=3369249d1d944d2f4e94dfdbf79aa823&txTime=65c3fad5
+https://hls.streambtw.com/live/stream_7.m3u8
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A ",12 Roma Vs Inter (VN)
-https://pull01.rrwes.live/live/stream-9912086_lhd.m3u8?txSecret=3369249d1d944d2f4e94dfdbf79aa823&txTime=65c3fad5
+https://pull01.rrwes.live/live/stream-387295_lhd.m3u8?txSecret=815f0b54d2451c94acb69fe538b12b29&txTime=65c7f56d
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",13 FC Augsburg Vs RB Leipzig
 https://pull01.rrwes.live/live/stream-273766_lhd.m3u8?txSecret=a2d258281c2a816f6c7e4896bb200a55&txTime=65c7dc1d

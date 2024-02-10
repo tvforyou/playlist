@@ -3,6 +3,8 @@
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="AFC",01 Jordan Vs Qatar
 https://hls.streambtw.com/live/stream_14.m3u8
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="AFC",01 Jordan Vs Qatar (VN)
+https://pull01.rrwes.live/live/stream-9912041_lhd.m3u8?txSecret=4d7f400af206a88fbaae0042ac68f50f&txTime=65c7e415
 
 
 

@@ -12,26 +12,66 @@ https://pull.niues.live/live/stream-9912047_lhd.m3u8?auth_key=1706959208-0-0-344
 
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",02 Borussia Dortmund Vs Freiburg
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="PL",02 Manchester City Vs Everton
 https://hls.streambtw.com/live/stream_9.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",02 Borussia Dortmund Vs Freiburg (VN)
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="PL",02 Manchester City Vs Everton (VN)
 https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1707493989-0-0-6c0460cb72f24694bef0ab1949f29a73
 
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",03 Cadiz Vs Real Betis
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="PL",03 Fulham Vs AFC Bournemouth
 https://hls.streambtw.com/live/stream_6.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",03 Cadiz Vs Real Betis (VN)
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="PL",04 Liverpool Vs Burnley
 https://pull01.rrwes.live/live/stream-462413_lhd.m3u8?txSecret=ab4ae6f7ca46a83076c6bbf589e41a80&txTime=65c69259
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",04 Salernitana Vs Empoli
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="PL",04 Liverpool Vs Burnley (VN)
+https://pull01.rrwes.live/live/stream-462413_lhd.m3u8?txSecret=ab4ae6f7ca46a83076c6bbf589e41a80&txTime=65c69259
+
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="PL",05 Luton Town Vs Sheffield United
 https://hls.streambtw.com/live/stream_7.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",04 Salernitana Vs Empoli (VN)
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="PL",06 Tottenham Hotspur Vs Brighton & Hove Albion 
 https://pull01.rrwes.live/live/stream-9912086_lhd.m3u8?txSecret=3369249d1d944d2f4e94dfdbf79aa823&txTime=65c3fad5
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="PL",06 Tottenham Hotspur Vs Brighton & Hove Albion (VN)
+https://pull01.rrwes.live/live/stream-9912086_lhd.m3u8?txSecret=3369249d1d944d2f4e94dfdbf79aa823&txTime=65c3fad5
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="PL",07 Wolverhampton Wanderers Vs Brentford 
+https://pull01.rrwes.live/live/stream-9912086_lhd.m3u8?txSecret=3369249d1d944d2f4e94dfdbf79aa823&txTime=65c3fad5
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Laliga ",08 Deportivo Alaves Vs Villarreal
+https://pull01.rrwes.live/live/stream-9912086_lhd.m3u8?txSecret=3369249d1d944d2f4e94dfdbf79aa823&txTime=65c3fad5
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Laliga ",09 Real Sociedad Vs Osasuna
+https://pull01.rrwes.live/live/stream-9912086_lhd.m3u8?txSecret=3369249d1d944d2f4e94dfdbf79aa823&txTime=65c3fad5
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Laliga ",10 Cagliari Vs Lazio
+https://pull01.rrwes.live/live/stream-9912086_lhd.m3u8?txSecret=3369249d1d944d2f4e94dfdbf79aa823&txTime=65c3fad5
+
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A ",11 Roma Vs Inter
+https://pull01.rrwes.live/live/stream-9912086_lhd.m3u8?txSecret=3369249d1d944d2f4e94dfdbf79aa823&txTime=65c3fad5
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A ",12 Roma Vs Inter (VN)
+https://pull01.rrwes.live/live/stream-9912086_lhd.m3u8?txSecret=3369249d1d944d2f4e94dfdbf79aa823&txTime=65c3fad5
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",13 FC Augsburg Vs RB Leipzig
+https://pull01.rrwes.live/live/stream-9912086_lhd.m3u8?txSecret=3369249d1d944d2f4e94dfdbf79aa823&txTime=65c3fad5
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga ",14 Borussia Mönchengladbach Vs SV Darmstadt
+https://pull01.rrwes.live/live/stream-9912086_lhd.m3u8?txSecret=3369249d1d944d2f4e94dfdbf79aa823&txTime=65c3fad5
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",15 Eintracht Frankfurt Vs VfL Bochum
+https://pull01.rrwes.live/live/stream-9912086_lhd.m3u8?txSecret=3369249d1d944d2f4e94dfdbf79aa823&txTime=65c3fad5
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",16 Union Berlin Vs Wolfsburg
+https://pull01.rrwes.live/live/stream-9912086_lhd.m3u8?txSecret=3369249d1d944d2f4e94dfdbf79aa823&txTime=65c3fad5
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",17 Werder Bremen Vs FC Heidenheim
+https://pull01.rrwes.live/live/stream-9912086_lhd.m3u8?txSecret=3369249d1d944d2f4e94dfdbf79aa823&txTime=65c3fad5
 
 
 

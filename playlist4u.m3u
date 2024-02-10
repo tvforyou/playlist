@@ -1,10 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="AFC",01 Jordan Vs Qatar
-https://hls.streambtw.com/live/stream_14.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="AFC",01 Jordan Vs Qatar (VN)
-https://pull01.rrwes.live/live/stream-9912041_lhd.m3u8?txSecret=4d7f400af206a88fbaae0042ac68f50f&txTime=65c7e415
 
 
 
@@ -13,27 +9,14 @@ https://hls.streambtw.com/live/stream_1.m3u8
 
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="PL",03 Fulham Vs AFC Bournemouth
-https://pull01.rrwes.live/live/stream-9912008_lhd.m3u8?txSecret=908d841b415ff4f234eed6a6c909f6dd&txTime=65c7e109
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="PL",04 Liverpool Vs Burnley
-https://hls.streambtw.com/live/stream_1.m3u8
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="PL",04 Liverpool Vs Burnley (VN)
-https://pull.niues.live/live/stream-9912086_lhd.m3u8?auth_key=1707580029-0-0-f702be00120fc59226df3d7808d7f090
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="PL",05 Luton Town Vs Sheffield United
-https://pull01.rrwes.live/live/stream-237299_lhd.m3u8?txSecret=5d84b4ed350d3d8bd897a700fbea8e3a&txTime=65c7e181
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="PL",06 Tottenham Hotspur Vs Brighton & Hove Albion 
-https://hls.streambtw.com/live/stream_3.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="PL",06 Tottenham Hotspur Vs Brighton & Hove Albion (VN)
-https://pull01.rrwes.live/live/stream-278654_lhd.m3u8?txSecret=92da85e81752fd79b09196058f735cf0&txTime=65c7e181
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="PL",07 Wolverhampton Wanderers Vs Brentford 
-https://pull.niues.live/live/stream-9912084_lhd.m3u8?auth_key=1707580389-0-0-3e6d4b3561997f82f1a047f413d09827
+
+
+
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Laliga ",08 Real Madrid Vs Girona
 https://hls.streambtw.com/live/stream_6.m3u8
@@ -61,8 +44,7 @@ https://hls.streambtw.com/live/stream_9.m3u8
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",13 Bayer Leverkusen Vs Bayern München (VN)
 https://pull.niues.live/live/stream-9912086_lhd.m3u8?auth_key=1707586329-0-0-1bc397b85fafef0b3158a629dfb590b7
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga ",14 Borussia Mönchengladbach Vs SV Darmstadt
-https://pull.niues.live/live/stream-336303_lhd.m3u8?auth_key=1707578829-0-0-ba26aac88e258ef4fb90a5f1d77e5692
+
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Ligue",15 PSG Vs Lille
 https://hls.streambtw.com/live/stream_8.m3u8
@@ -70,8 +52,6 @@ https://hls.streambtw.com/live/stream_8.m3u8
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",16 Union Berlin Vs Wolfsburg
 https://pull01.rrwes.live/live/stream-486629_lhd.m3u8?txSecret=f532d3874465b98b1e47425d22b0cd18&txTime=65c7dc59
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",17 Werder Bremen Vs FC Heidenheim
-https://pull.niues.live/live/stream-490081_lhd.m3u8?auth_key=1707579071-0-0-aa28ae7616f6abed7564bd97af8b7c46
 
 
 

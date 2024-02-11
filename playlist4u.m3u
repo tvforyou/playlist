@@ -47,7 +47,7 @@ https://pull01.rrwes.live/live/stream-387295_lhd.m3u8?txSecret=815f0b54d2451c94a
 https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1707663789-0-0-5c11f0bc06ca8631fb5637b3520d5588
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A ",09 Monza Vs Hellas Verona
-https://hls.streambtw.com/live/stream_7.m3u8
+https://pull.niues.live/live/stream-115447_lhd.m3u8?auth_key=1707663849-0-0-b4edd4a7032f6448df5189ef9894fa54
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A ",10 Genoa Vs Atalanta
 https://hls.streambtw.com/live/stream_7.m3u8

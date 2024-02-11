@@ -44,7 +44,7 @@ https://hls.streambtw.com/live/stream_7.m3u8
 https://pull01.rrwes.live/live/stream-387295_lhd.m3u8?txSecret=815f0b54d2451c94acb69fe538b12b29&txTime=65c7f56d
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A ",08 Bologna Vs Lecce
-https://hls.streambtw.com/live/stream_7.m3u8
+https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1707663789-0-0-5c11f0bc06ca8631fb5637b3520d5588
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A ",09 Monza Vs Hellas Verona
 https://hls.streambtw.com/live/stream_7.m3u8

@@ -4,23 +4,27 @@
 
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="CL",01 FC København Vs Manchester City (EN)
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UCL",01 Lazio vs FC Bayern München (EN)
 https://hls.streambtw.com/live/stream_1.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="CL",01 FC København Vs Manchester City (VN)
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UCL",01 Lazio vs FC Bayern München (VN)
 https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1707850869-0-0-adeca98badbb2680de3232fd191d381e
 
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="CL",02 RB Leipzig Vs Real Madrid (EN)
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UCL",02 Paris Saint-Germain vs Real Sociedad (EN)
 https://hls.streambtw.com/live/stream_6.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="CL",02 RB Leipzig Vs Real Madrid (VN)
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UCL",02 Paris Saint-Germain vs Real Sociedad (VN)
 https://pull01.rrwes.live/live/stream-9912086_lhd.m3u8?txSecret=a916ea7a8dc04229b86ab50026ea7277&txTime=65cc15c1
 
 
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",03 Bologna vs Fiorentina (EN)
+https://hls.streambtw.com/live/stream_6.m3u8
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",03 Bologna vs Fiorentina (VN)
+https://pull01.rrwes.live/live/stream-9912086_lhd.m3u8?txSecret=a916ea7a8dc04229b86ab50026ea7277&txTime=65cc15c1
 
 
 

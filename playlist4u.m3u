@@ -5,7 +5,7 @@
 
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UCL",01 Lazio vs FC Bayern München (EN)
-https://hls.streambtw.com/live/stream_1.m3u8
+https://hls.streambtw.com/live/stream_2.m3u8
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UCL",01 Lazio vs FC Bayern München (VN)
 https://pull01.rrwes.live/live/stream-9912060_lhd.m3u8?txSecret=7c41b2b7491457393d10c3c455184772&txTime=65cd52dd
@@ -13,21 +13,21 @@ https://pull01.rrwes.live/live/stream-9912060_lhd.m3u8?txSecret=7c41b2b749145739
 
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UCL",02 Paris Saint-Germain vs Real Sociedad (EN)
-https://hls.streambtw.com/live/stream_6.m3u8
+https://hls.streambtw.com/live/stream_1.m3u8
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UCL",02 Paris Saint-Germain vs Real Sociedad (VN)
 https://pull.niues.live/live/stream-9912052_lhd.m3u8?auth_key=1707937029-0-0-602c285cffbe6bfa31ec543cfe415981
 
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",03 Bologna vs Fiorentina (EN)
-https://hls.streambtw.com/live/stream_6.m3u8
+https://hls.streambtw.com/live/stream_7.m3u8
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",03 Bologna vs Fiorentina (VN)
 https://pull.niues.live/live/stream-9912006_lhd.m3u8?auth_key=1707936789-0-0-24708de79b4f75ac3445a41d4c10d795
 
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="AFC",04 Al-Fayha Vs Al Nassr FC	 (EN)
-https://hls.streambtw.com/live/stream_6.m3u8
+https://hls.streambtw.com/live/stream_3.m3u8
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="AFC",04 Al-Fayha Vs Al Nassr FC	 (VN)
 https://pull01.rrwes.live/live/stream-9912038_lhd.m3u8?txSecret=92ae9e20367d003db29903b0e322f0c0&txTime=65cd52a1

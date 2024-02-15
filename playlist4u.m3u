@@ -16,11 +16,11 @@ https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1708015629-0-0-bbe
 https://pull01.rrwes.live/live/stream-462413_lhd.m3u8?txSecret=8ef438c59961c933acbbd105f7255c66&txTime=65ce865d
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UEL",04 Young Boys Vs Sporting CP
-https://pull.niues.live/live/stream-9912052_lhd.m3u8?auth_key=1707944529-0-0-80736ed7b2b7a08dd0135abe35140283
+https://pull.niues.live/live/stream-400798_lhd.m3u8?auth_key=1708015629-0-0-720a8f1e76053d11bf24d422e46bd637
 
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UEL",05 AC Milan Vs Rennes
-https://hls.streambtw.com/live/stream_7.m3u8
+https://pull01.rrwes.live/live/stream-494201_lhd.m3u8?txSecret=8a94606bab27dc3d1e2bde286e45abdb&txTime=65ce86d5
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UEL",06 Benfica Vs Toulouse
 https://pull.niues.live/live/stream-9912006_lhd.m3u8?auth_key=1707936789-0-0-24708de79b4f75ac3445a41d4c10d795

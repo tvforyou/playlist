@@ -4,32 +4,32 @@
 
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UCL",01 Lazio vs FC Bayern München (EN)
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UEL",01 Feyenoord Vs Roma
 https://hls.streambtw.com/live/stream_2.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UCL",01 Lazio vs FC Bayern München (VN)
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UEL",02 Galatasaray Vs Sparta Prague
 https://pull01.rrwes.live/live/stream-9912060_lhd.m3u8?txSecret=7c41b2b7491457393d10c3c455184772&txTime=65cd52dd
 
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UCL",02 Paris Saint-Germain vs Real Sociedad (EN)
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UEL",03 Shakhtar Donetsk Vs Marseille
 https://hls.streambtw.com/live/stream_1.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UCL",02 Paris Saint-Germain vs Real Sociedad (VN)
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UEL",04 Young Boys Vs Sporting CP
 https://pull.niues.live/live/stream-9912052_lhd.m3u8?auth_key=1707944529-0-0-80736ed7b2b7a08dd0135abe35140283
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",03 Bologna vs Fiorentina (EN)
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UEL",05 AC Milan Vs Rennes
 https://hls.streambtw.com/live/stream_7.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",03 Bologna vs Fiorentina (VN)
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UEL",06 Benfica Vs Toulouse
 https://pull.niues.live/live/stream-9912006_lhd.m3u8?auth_key=1707936789-0-0-24708de79b4f75ac3445a41d4c10d795
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="AFC",04 Al-Fayha Vs Al Nassr FC (EN)
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UEL",07 Braga Vs Qarabag FK
 https://hls.streambtw.com/live/stream_3.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="AFC",04 Al-Fayha Vs Al Nassr FC (VN)
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UEL",08 Lens Vs  Freiburg
 https://pull01.rrwes.live/live/stream-9912038_lhd.m3u8?txSecret=92ae9e20367d003db29903b0e322f0c0&txTime=65cd52a1
 
 

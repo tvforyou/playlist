@@ -51,6 +51,9 @@ https://pull.niues.live/live/stream-448539_lhd.m3u8?auth_key=1708187890-0-0-585b
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",09 Verona vs Juventus
 https://hls.streambtw.com/live/stream_7.m3u8
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",09 Verona vs Juventus (2)
+https://pull01.rrwes.live/live/stream-494201_lhd.m3u8?txSecret=65dca5a067dec9a50a8329f8fb95750c&txTime=65d12b7a
+
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",10 Atalanta vs Sassuolo
 https://hls.streambtw.com/live/stream_7.m3u8
 

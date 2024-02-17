@@ -73,6 +73,9 @@ https://hls.streambtw.com/live/stream_6.m3u8
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",13 Celta Vigo vs Barcelona
 https://hls.streambtw.com/live/stream_6.m3u8
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",13 Celta Vigo vs Barcelona (2)
+https://pull01.rrwes.live/live/stream-9912052_lhd.m3u8?txSecret=b7b9ef53a3452d26b089242082fb277e&txTime=65d12c2e
+
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",14 Valencia vs Sevilla
 https://hls.streambtw.com/live/stream_6.m3u8
 

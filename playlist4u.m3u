@@ -20,6 +20,9 @@ https://hls.streambtw.com/live/stream_2.m3u8
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",03 Fulham vs Aston Villa (2)
 https://pull.niues.live/live/stream-9911957_lhd.m3u8?auth_key=1708177209-0-0-03049e132aefc6b3a428f830cd589967
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",03 Fulham vs Aston Villa (3)
+https://livecdn.rumsport.com/stream/15/chunks.m3u8?token=1a49a87f04c32e9802cb98b355f3fd9408e9d666&is_vip=false&verify=1708186260-6YuQvU%2Fydy9ioLl9n86OMF8vvy33obU3e1jPETVxzho%3D
+
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",04 Newcastle vs Bournemouth
 https://hls.streambtw.com/live/stream_3.m3u8
 

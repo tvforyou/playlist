@@ -86,6 +86,9 @@ https://hls.streambtw.com/live/stream_11.m3u8
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",19 Wolfsburg vs Dortmund
 https://hls.streambtw.com/live/stream_9.m3u8
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",19 Wolfsburg vs Dortmund (2)
+https://pull.niues.live/live/stream-9912003_lhd.m3u8?auth_key=1708181589-0-0-bb9ff95f7b7c76bf91f756ae9e8cdefe
+
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",20 Leipzig vs M'gladbach
 https://hls.streambtw.com/live/stream_9.m3u8
 

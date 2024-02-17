@@ -17,6 +17,9 @@ https://pull01.rrwes.live/live/stream-9912060_lhd.m3u8?txSecret=2a6911d463117587
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",03 Fulham vs Aston Villa
 https://hls.streambtw.com/live/stream_2.m3u8
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",03 Fulham vs Aston Villa (2)
+https://pull.niues.live/live/stream-9911957_lhd.m3u8?auth_key=1708177209-0-0-03049e132aefc6b3a428f830cd589967
+
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",04 Newcastle vs Bournemouth
 https://hls.streambtw.com/live/stream_3.m3u8
 
@@ -51,6 +54,9 @@ https://hls.streambtw.com/live/stream_7.m3u8
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",11 Atlético vs Las Palmas
 https://hls.streambtw.com/live/stream_6.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",11 Atlético vs Las Palmas (2)
+https://pull.niues.live/live/stream-9911957_lhd.m3u8?auth_key=1708177209-0-0-03049e132aefc6b3a428f830cd589967
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",12 Osasuna vs Cádiz
 https://hls.streambtw.com/live/stream_6.m3u8

@@ -42,6 +42,9 @@ https://pull01.rrwes.live/live/stream-9912060_lhd.m3u8?txSecret=2a6911d463117587
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",08 Napoli vs Genoa
 https://hls.streambtw.com/live/stream_7.m3u8
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",08 Napoli vs Genoa (2)
+https://pull.niues.live/live/stream-448539_lhd.m3u8?auth_key=1708187890-0-0-585b16fcf42e24550c48e18128460f7c
+
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",09 Verona vs Juventus
 https://hls.streambtw.com/live/stream_7.m3u8
 

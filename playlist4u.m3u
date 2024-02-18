@@ -51,6 +51,9 @@ https://hls.streambtw.com/live/stream_4.m3u8
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",10 Frosinone vs Roma
 https://hls.streambtw.com/live/stream_7.m3u8
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",10 Frosinone vs Roma (2)
+https://pull01.rrwes.live/live/stream-486629_lhd.m3u8?txSecret=f0447e681133b610d0f8106c63adb231&txTime=65d24cb2
+
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",11 Monza vs Milan
 https://hls.streambtw.com/live/stream_7.m3u8
 

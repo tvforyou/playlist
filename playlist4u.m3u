@@ -20,6 +20,9 @@ https://pull01.rrwes.live/live/stream-9912060_lhd.m3u8?txSecret=db1c54247b481161
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",03 Vallecano vs Real Madrid
 https://hls.streambtw.com/live/stream_6.m3u8
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",03 Vallecano vs Real Madrid (2)
+https://pull.niues.live/live/stream-9912052_lhd.m3u8?auth_key=1708261510-0-0-64a47b18030d2f7118c35bf4101faa43
+
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",04 Granada vs Almeria
 https://hls.streambtw.com/live/stream_6.m3u8
 

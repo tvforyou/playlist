@@ -58,6 +58,9 @@ https://pull01.rrwes.live/live/stream-334434_lhd.m3u8?txSecret=a9e6db225f4e99564
 https://hls.streambtw.com/live/stream_7.m3u8
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",10 Frosinone vs Roma (2)
+https://pull01.rrwes.live/live/stream-278654_lhd.m3u8?txSecret=27cb799b9b51d07acc6572ed373c8f2d&txTime=65d2690e
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",10 Frosinone vs Roma (2)
 https://pull01.rrwes.live/live/stream-486629_lhd.m3u8?txSecret=f0447e681133b610d0f8106c63adb231&txTime=65d24cb2
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",11 Monza vs Milan
@@ -72,6 +75,9 @@ https://pull01.rrwes.live/live/stream-9912060_lhd.m3u8?txSecret=e3b231b064f825d2
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",12 Freiburg vs Frankfurt
 https://hls.streambtw.com/live/stream_9.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",12 Freiburg vs Frankfurt (2)
+https://pull01.rrwes.live/live/stream-278654_lhd.m3u8?txSecret=27cb799b9b51d07acc6572ed373c8f2d&txTime=65d2690e
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",13 Bochum vs Bayern Munchen
 https://hls.streambtw.com/live/stream_9.m3u8

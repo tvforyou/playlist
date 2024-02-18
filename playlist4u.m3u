@@ -45,8 +45,14 @@ https://pull01.rrwes.live/live/stream-9912060_lhd.m3u8?txSecret=db1c54247b481161
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",08 Empoli vs Fiorentina
 https://hls.streambtw.com/live/stream_7.m3u8
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",08 Empoli vs Fiorentina (2)
+https://pull.niues.live/live/stream-9911977_lhd.m3u8?auth_key=1708268650-0-0-823533b6a2919c97c499a80beee75f7e
+
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",09 Udinese vs Cagliari
 https://hls.streambtw.com/live/stream_4.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",09 Udinese vs Cagliari (2)
+https://pull01.rrwes.live/live/stream-334434_lhd.m3u8?txSecret=a9e6db225f4e99564cc8c5bf75377077&txTime=65d2627e
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",10 Frosinone vs Roma
 https://hls.streambtw.com/live/stream_7.m3u8

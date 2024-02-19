@@ -2,72 +2,22 @@
 
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",01 Sheffield vs Brighton
-https://hls.streambtw.com/live/stream_1.m3u8
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",01 Sheffield vs Brighton (2)
-https://pull01.rrwes.live/live/stream-9912060_lhd.m3u8?txSecret=db1c54247b481161764daa4f22f87e88&txTime=65d2465e
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",02 Luton Town vs Man United
-https://hls.streambtw.com/live/stream_1.m3u8
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",02 Luton Town vs Man United (2)
-https://pull01.rrwes.live/live/stream-9912060_lhd.m3u8?txSecret=4794ce23c95b3d84f8464a8669880706&txTime=65d24bfe
-
-
-
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",03 Vallecano vs Real Madrid
-https://hls.streambtw.com/live/stream_6.m3u8
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",03 Vallecano vs Real Madrid (2)
-https://pull.niues.live/live/stream-9912052_lhd.m3u8?auth_key=1708261510-0-0-64a47b18030d2f7118c35bf4101faa43
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",04 Granada vs Almeria
-https://hls.streambtw.com/live/stream_6.m3u8
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",05 Mallorca vs Sociedad
-https://hls.streambtw.com/live/stream_6.m3u8
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",06 Real Betis vs Deportivo
-https://hls.streambtw.com/live/stream_6.m3u8
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",01 Everton Vs Crystal Palace
+https://pull01.rrwes.live/live/stream-9912060_lhd.m3u8?txSecret=b3f09d3f26543325ef6c7695a42a948d&txTime=65d3bfb6
 
 
 
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",07 Lazio vs Bologna
-https://hls.streambtw.com/live/stream_7.m3u8
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",02 Athletic Club Vs Girona
+https://pull.niues.live/live/stream-400798_lhd.m3u8?auth_key=1708357990-0-0-e3da85b996d73e37041fe4224b493571
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",07 Lazio vs Bologna (2)
-https://pull01.rrwes.live/live/stream-9912060_lhd.m3u8?txSecret=db1c54247b481161764daa4f22f87e88&txTime=65d2465e
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",08 Empoli vs Fiorentina
-https://hls.streambtw.com/live/stream_7.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",08 Empoli vs Fiorentina (2)
-https://pull.niues.live/live/stream-9911977_lhd.m3u8?auth_key=1708268650-0-0-823533b6a2919c97c499a80beee75f7e
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",09 Udinese vs Cagliari
-https://hls.streambtw.com/live/stream_4.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",09 Udinese vs Cagliari (2)
-https://pull01.rrwes.live/live/stream-334434_lhd.m3u8?txSecret=a9e6db225f4e99564cc8c5bf75377077&txTime=65d2627e
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",10 Frosinone vs Roma
-https://hls.streambtw.com/live/stream_7.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",10 Frosinone vs Roma (3)
-https://pull01.rrwes.live/live/stream-278654_lhd.m3u8?txSecret=27cb799b9b51d07acc6572ed373c8f2d&txTime=65d2690e
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",10 Frosinone vs Roma (2)
-https://pull01.rrwes.live/live/stream-486629_lhd.m3u8?txSecret=f0447e681133b610d0f8106c63adb231&txTime=65d24cb2
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",11 Monza vs Milan
-https://hls.streambtw.com/live/stream_7.m3u8
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",11 Monza vs Milan (2)
-https://pull01.rrwes.live/live/stream-9912060_lhd.m3u8?txSecret=e3b231b064f825d2d1aac008f9d48a18&txTime=65d24d2a
 
 
 

@@ -2,15 +2,15 @@
 
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",01 Everton Vs Crystal Palace
-https://pull01.rrwes.live/live/stream-9912060_lhd.m3u8?txSecret=b3f09d3f26543325ef6c7695a42a948d&txTime=65d3bfb6
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Champions League",01 Inter vs Atlético
+https://hls.streambtw.com/live/stream_1.m3u8
 
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Champions League",02 PSV vs Dortmund
+https://hls.streambtw.com/live/stream_2.m3u8
 
-
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",02 Athletic Club Vs Girona
-https://pull.niues.live/live/stream-400798_lhd.m3u8?auth_key=1708357990-0-0-e3da85b996d73e37041fe4224b493571
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",03 Man City vs Brentford
+https://hls.streambtw.com/live/stream_3.m3u8
 
 
 

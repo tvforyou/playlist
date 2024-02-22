@@ -2,38 +2,22 @@
 
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Champions League",01 FC Porto vs Arsenal
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Europa League",01 Qarabağ vs Sporting Braga
 https://hls.streambtw.com/live/stream_1.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Champions League",01 FC Porto vs Arsenal (2)
-https://pull.niues.live/live/stream-499765_lhd.m3u8?auth_key=1708548730-0-0-f2c5f1fe89e4c7f5b4f77db1ad4b0632
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Europa League",02 Freiburg vs Lens
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Champions League",02 Napoli vs Barcelona
-https://hls.streambtw.com/live/stream_2.m3u8
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Europa League",03 Rennais vs Milan
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Champions League",02 Napoli vs Barcelona (2)
-https://pull.niues.live/live/stream-9912077_lhd.m3u8?auth_key=1708548670-0-0-3015ebc42b7dd6f87b2bf718b58b413b
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Europa League",04 Marseille vs Shakhtar Donetsk
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",03 Liverpool vs Luton Town
-https://hls.streambtw.com/live/stream_3.m3u8
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Europa League",05 Roma vs Feyenoord
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",03 Liverpool vs Luton Town (2)
-https://pull.niues.live/live/stream-9912080_lhd.m3u8?auth_key=1708545130-0-0-03897aaee851bc85e35a5e4cffea1aad
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Europa League",06 Sparta Praha vs Galatasaray
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Europa Conference League",04 Gent vs Maccabi Haifa
-https://hls.streambtw.com/live/stream_5.m3u8
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Europa League",07 Sporting vs Young Boys
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Europa Conference League",04 Gent vs Maccabi Haifa (2)
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1708540630-0-0-be5cad4e2f2b30927e9257b8c8dcbbce
-
-
-
-
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="AFC",05 Al Nassr FC Vs Al-Fayha  
-https://pull.niues.live/live/stream-9912025_lhd.m3u8?auth_key=1708541710-0-0-a88b71d5b00e23993366b8e58c478bd5
-
-
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Europa League",08 Toulouse vs Benfica
 
 
 

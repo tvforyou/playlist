@@ -39,8 +39,7 @@ https://pull.niues.live/live/stream-477560_lhd.m3u8?auth_key=1708721290-0-0-26ee
 
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",08 Deportivo Alaves Vs Mallorca
-https://pull.niues.live/live/stream-477560_lhd.m3u8?auth_key=1708721290-0-0-26ee671f850a6c7b674c920a5c2221e6
-
+https://pull.niues.live/live/stream-9912023_lhd.m3u8?auth_key=1708788190-0-0-2694444d2b9447ac0e4d7a4daca7b767
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",09 Almeria Vs Atletico Madrid
 https://pull.niues.live/live/stream-477560_lhd.m3u8?auth_key=1708721290-0-0-26ee671f850a6c7b674c920a5c2221e6
@@ -66,18 +65,19 @@ https://pull.niues.live/live/stream-477560_lhd.m3u8?auth_key=1708721290-0-0-26ee
 https://pull.niues.live/live/stream-336303_lhd.m3u8?auth_key=1708787950-0-0-517486c6479d04e41974dea91e2a9b5e
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",14 Union Berlin Vs Heidenheim
-https://pull.niues.live/live/stream-477560_lhd.m3u8?auth_key=1708721290-0-0-26ee671f850a6c7b674c920a5c2221e6
-
+https://pull01.rrwes.live/live/stream-9911969_lhd.m3u8?txSecret=5cb4925691c1b4a39b397a79ecb02509&txTime=65da4ff2
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",15 Werder Bremen VS Darmstadt
+https://pull.niues.live/live/stream-9912023_lhd.m3u8?auth_key=1708788190-0-0-2694444d2b9447ac0e4d7a4daca7b767
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",16 Stuttgart vs Köln
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1708788010-0-0-176b824a8e34d559835df9efa4d0e62d
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",17 Bayern München Vs Leipzig
 https://pull.niues.live/live/stream-477560_lhd.m3u8?auth_key=1708721290-0-0-26ee671f850a6c7b674c920a5c2221e6
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",16 Bayern München Vs Leipzig
-https://pull.niues.live/live/stream-477560_lhd.m3u8?auth_key=1708721290-0-0-26ee671f850a6c7b674c920a5c2221e6
-
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",16 Bayern München Vs Leipzig (VN)
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",17 Bayern München Vs Leipzig (VN)
 https://pull.niues.live/live/stream-477560_lhd.m3u8?auth_key=1708721290-0-0-26ee671f850a6c7b674c920a5c2221e6
 
 

@@ -60,9 +60,10 @@ https://pull.niues.live/live/stream-477560_lhd.m3u8?auth_key=1708721290-0-0-26ee
 https://pull.niues.live/live/stream-477560_lhd.m3u8?auth_key=1708721290-0-0-26ee671f850a6c7b674c920a5c2221e6
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",13 Mönchengladbach VS Bochum 
-https://pull.niues.live/live/stream-477560_lhd.m3u8?auth_key=1708721290-0-0-26ee671f850a6c7b674c920a5c2221e6
 
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",13 Mönchengladbach VS Bochum 
+https://pull.niues.live/live/stream-336303_lhd.m3u8?auth_key=1708787950-0-0-517486c6479d04e41974dea91e2a9b5e
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",14 Union Berlin Vs Heidenheim
 https://pull.niues.live/live/stream-477560_lhd.m3u8?auth_key=1708721290-0-0-26ee671f850a6c7b674c920a5c2221e6

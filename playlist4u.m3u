@@ -3,7 +3,7 @@
 
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="PL",01 Aston Villa Vs Nottingham Forest
-https://
+https://pull.niues.live/live/stream-499765_lhd.m3u8?auth_key=1708788813-0-0-c0abce37ae3f1c09b8d01ac34a3dff74
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="PL",02 Brighton & Hove Albion Vs Everton
 https://
@@ -24,11 +24,10 @@ https://hls.streambtw.com/live/stream_1.m3u8
 https://pull01.rrwes.live/live/stream-9912060_lhd.m3u8?txSecret=16f58152728636c2fa4e11dedb3930ac&txTime=65da51d2
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="PL",06 Arsenal Vs Newcastle United
-https://
+https://hls.streambtw.com/live/stream_1.m3u8
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="PL",06 Arsenal Vs Newcastle United (VN)
-https://
-
+https://pull.niues.live/live/stream-499765_lhd.m3u8?auth_key=1708788813-0-0-c0abce37ae3f1c09b8d01ac34a3dff74
 
 
 
@@ -85,8 +84,7 @@ https://
 
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",17 Bayern München Vs Leipzig (VN)
-https://
-
+https://pull.niues.live/live/stream-499765_lhd.m3u8?auth_key=1708788813-0-0-c0abce37ae3f1c09b8d01ac34a3dff74
 
 
 

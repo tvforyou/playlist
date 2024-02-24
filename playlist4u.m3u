@@ -6,7 +6,7 @@
 https://pull.niues.live/live/stream-499765_lhd.m3u8?auth_key=1708788813-0-0-c0abce37ae3f1c09b8d01ac34a3dff74
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="PL",02 Brighton & Hove Albion Vs Everton
-https://
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1708788910-0-0-f3c36a7abebcef148d04dded7279141b
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="PL",03 Crystal Palace Vs Burnley
 https://
@@ -33,7 +33,7 @@ https://pull.niues.live/live/stream-499765_lhd.m3u8?auth_key=1708788813-0-0-c0ab
 
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",07 Barcelona VS Getafe
-https://
+https://hls.streambtw.com/live/stream_6.m3u8
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",07 Barcelona VS Getafe (VN)
 https://
@@ -42,11 +42,10 @@ https://
 https://pull.niues.live/live/stream-9912023_lhd.m3u8?auth_key=1708788190-0-0-2694444d2b9447ac0e4d7a4daca7b767
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",09 Almeria Vs Atletico Madrid
-https://
+https://hls.streambtw.com/live/stream_6.m3u8
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",09 Almeria Vs Atletico Madrid (VN)
-https://
-
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1708788910-0-0-f3c36a7abebcef148d04dded7279141b
 
 
 

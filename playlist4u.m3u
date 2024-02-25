@@ -1,42 +1,69 @@
 #EXTM3U
 
-
-
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EFL Cup",01 Chelsea Vs Liverpool
+https://hls.streambtw.com/live/stream_2.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EFL Cup",01 Chelsea Vs Liverpool (2)
 https://pull01.rrwes.live/live/stream-9912060_lhd.m3u8?txSecret=bdb3aa33e77f2967edcad5b1981e2b1b&txTime=65db7b3e
 
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="PL",06 Wolve Vs Sheffield United
+https://hls.streambtw.com/live/stream_1.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="PL",06 Wolve Vs Sheffield United (2)
+https://pull01.rrwes.live/live/stream-9912060_lhd.m3u8?txSecret=16f58152728636c2fa4e11dedb3930ac&txTime=65da51d2
+
+
+
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Laliga",02 Cadiz Vs Celta Vigo
+https://hls.streambtw.com/live/stream_6.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Laliga",02 Cadiz Vs Celta Vigo (2)
 https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1708788910-0-0-f3c36a7abebcef148d04dded7279141b
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Laliga",03 Real Betis Vs Athletic Club
+https://hls.streambtw.com/live/stream_6.m3u8
+
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Laliga",03 Real Betis Vs Athletic Club (2)
 https://pull01.rrwes.live/live/stream-991140_lhd.m3u8?txSecret=d8770e7de92088c2a9748858c3fe3590&txTime=65da542a
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Laliga",04 Real Madrid Vs Sevilla 
 https://hls.streambtw.com/live/stream_4.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Laliga",04 Real Madrid Vs Sevilla  (VN)
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Laliga",04 Real Madrid Vs Sevilla  (2)
 https://pull01.rrwes.live/live/stream-9912060_lhd.m3u8?txSecret=16f58152728636c2fa4e11dedb3930ac&txTime=65da51d2
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="PL",05 Las Palmas Vs Osasuna
 https://hls.streambtw.com/live/stream_1.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="PL",06 Wolve Vs Sheffield United
-https://pull01.rrwes.live/live/stream-9912060_lhd.m3u8?txSecret=16f58152728636c2fa4e11dedb3930ac&txTime=65da51d2
+
+
+
 
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",07 AC Milan Vs Atalanta
 https://pull.niues.live/live/stream-9912045_lhd.m3u8?auth_key=1708787290-0-0-18a3c8e955ce83d93bcc8bea09296583
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",07 AC Milan Vs Atalantav (VN)
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",07 AC Milan Vs Atalantav (2)
 https://pull01.rrwes.live/live/stream-921508_lhd.m3u8?txSecret=4c20eddb7e3e0df943f0b5a288cbdaef&txTime=65da53b2
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",08 Juventus VS Frosinone
+https://hls.streambtw.com/live/stream_9.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",08 Juventus VS Frosinone (2)
 https://pull01.rrwes.live/live/stream-9912060_lhd.m3u8?txSecret=bdb3aa33e77f2967edcad5b1981e2b1b&txTime=65db7b3e
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",09 Cagliari Vs Napoli
+https://hls.streambtw.com/live/stream_7.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",09 Cagliari Vs Napoli (2)
 https://pull01.rrwes.live/live/stream-921508_lhd.m3u8?txSecret=4c20eddb7e3e0df943f0b5a288cbdaef&txTime=65da53b2
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",09 Lecce Vs Inter
+https://hls.streambtw.com/live/stream_7.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",09 Lecce Vs Inter (2)
 https://pull01.rrwes.live/live/stream-921508_lhd.m3u8?txSecret=4c20eddb7e3e0df943f0b5a288cbdaef&txTime=65da53b2
 
 
@@ -44,22 +71,32 @@ https://pull01.rrwes.live/live/stream-921508_lhd.m3u8?txSecret=4c20eddb7e3e0df94
 
 
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",10 Frankfurt Vs Wolfsburg
+https://hls.streambtw.com/live/stream_9.m3u8
 
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",10 Frankfurt Vs Wolfsburg 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",10 Frankfurt Vs Wolfsburg (2)
 https://pull.niues.live/live/stream-336303_lhd.m3u8?auth_key=1708787950-0-0-517486c6479d04e41974dea91e2a9b5e
 
+
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",11 Dortmund Vs Hoffenheim
+https://hls.streambtw.com/live/stream_9.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",11 Dortmund Vs Hoffenheim (2)
 https://pull01.rrwes.live/live/stream-9911969_lhd.m3u8?txSecret=5cb4925691c1b4a39b397a79ecb02509&txTime=65da4ff2
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",11 Dortmund Vs Hoffenheim (VN)
-https://pull.niues.live/live/stream-9912023_lhd.m3u8?auth_key=1708788190-0-0-2694444d2b9447ac0e4d7a4daca7b767
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",12 FC Augsburg Vs Freiburg
+https://hls.streambtw.com/live/stream_9.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",12 FC Augsburg Vs Freiburg (2)
 https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1708788010-0-0-176b824a8e34d559835df9efa4d0e62d
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Ligue",13 PSG Vs Rennes
 https://hls.streambtw.com/live/stream_9.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Ligue",13 PSG Vs Rennes (2)
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1708788010-0-0-176b824a8e34d559835df9efa4d0e62d
+
 
 
 

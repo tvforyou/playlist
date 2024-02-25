@@ -3,7 +3,7 @@
 
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EFL Cup",01 Chelsea Vs Liverpool
-https://dai.fancode.com/primary/92587_english_hls_8639adfreeta-no/index.m3u8
+https://dai.fancode.com/primary/92587_english_hls_8639adfreeta-no/index.m3u8?hdnea=exp=1708847475~acl=*~id=256542522_12c4de76-bc1c-4b~data=256542522~hmac=a83d00215a5969f936e57dd6681fa7380d31f11e1b66d51d02391dcff07b43f5&deviceId=MacIntel&advertiserId=undefined&state=Maharashtra&city=Mumbai
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Laliga",02 Cadiz Vs Celta Vigo
 https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1708788910-0-0-f3c36a7abebcef148d04dded7279141b

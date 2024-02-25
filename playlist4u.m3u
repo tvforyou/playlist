@@ -19,7 +19,7 @@ https://pull01.rrwes.live/live/stream-9912060_lhd.m3u8?txSecret=16f58152728636c2
 https://hls.streambtw.com/live/stream_6.m3u8
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Laliga",02 Cadiz Vs Celta Vigo (2)
-https://pull01.rrwes.live/live/stream-273766_lhd.m3u8?txSecret=5617f9a52ca8ac99411309b7db5218e4&txTime=65db8b6a
+https://pull.niues.live/live/stream-9912080_lhd.m3u8?auth_key=1708869130-0-0-42a7ce3df3416a503b76c3854a2d2ed9
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Laliga",03 Real Betis Vs Athletic Club
 https://hls.streambtw.com/live/stream_6.m3u8
@@ -46,7 +46,7 @@ https
 https://pull.niues.live/live/stream-9912045_lhd.m3u8?auth_key=1708787290-0-0-18a3c8e955ce83d93bcc8bea09296583
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",07 AC Milan Vs Atalantav (2)
-https://pull01.rrwes.live/live/stream-921508_lhd.m3u8?txSecret=4c20eddb7e3e0df943f0b5a288cbdaef&txTime=65da53b2
+https://pull.niues.live/live/stream-9912080_lhd.m3u8?auth_key=1708869130-0-0-42a7ce3df3416a503b76c3854a2d2ed9
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",08 Juventus VS Frosinone
 https://hls.streambtw.com/live/stream_9.m3u8
@@ -95,8 +95,7 @@ https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1708788010-0-0-176b
 https://hls.streambtw.com/live/stream_9.m3u8
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Ligue",13 PSG Vs Rennes (2)
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1708788010-0-0-176b824a8e34d559835df9efa4d0e62d
-
+https://pull.niues.live/live/stream-9912080_lhd.m3u8?auth_key=1708869130-0-0-42a7ce3df3416a503b76c3854a2d2ed9
 
 
 

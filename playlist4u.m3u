@@ -74,6 +74,9 @@ https://sportsleading.online/live/stream_7.m3u8
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",16 VfL Bochum VS Leipzig
 https://sportsleading.online/live/stream_11.m3u8
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",16 VfL Bochum VS Leipzig (VN)
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isLogin=1&mid=3950440
+
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",17 SV Darmstadt Vs Augsburg
 https://sportsleading.online/live/stream_13.m3u8
 

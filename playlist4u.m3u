@@ -172,9 +172,8 @@ https://hls.streambtw.com/live/stream_nba7.m3u8
 #EXTINF:-1 iso-id="QA" tvg-logo="https://media.designrush.com/inspirations/129849/conversions/_1615382341_669_NBA-logo-preview.jpg" group-title="NBA",TV4U NBA 08
 https://hls.streambtw.com/live/stream_nba8.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://media.designrush.com/inspirations/129849/conversions/_1615382341_669_NBA-logo-preview.jpg" group-title="NBA",TV4U NBA 09
-https://player.huminbird.cn/detail.html?v=1&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3940260
-
+#EXTINF:-1 iso-id="QA" tvg-logo="https://media.designrush.com/inspirations/129849/conversions/_1615382341_669_NBA-logo-preview.jpg" group-title="NBA",TV4U Test 2
+https://player.huminbird.cn/detail.html?v=235&mid=3939423&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px
 
 
 

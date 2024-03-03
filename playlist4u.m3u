@@ -1,99 +1,54 @@
 #EXTM3U
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="PL",01 Brentford Vs Chelsea 
-https://sportsleading.online/live/stream_1.m3u8
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="PL",01 Burnley vs Bournemouth
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=7&mid=3936479
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="PL",01 Brentford Vs Chelsea (VN)
-https://pull.niues.live/live/stream-499765_lhd.m3u8?auth_key=1709395391-0-0-484fb77654ebcef65979e5d88a837a43
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="PL",02 Everton vs West Ham United
-https://sportsleading.online/live/stream_2.m3u8
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="PL",03 Fulham Vs Brighton
-https://sportsleading.online/live/stream_3.m3u8
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="PL",04 Newcastle Vs Wolve
-https://sportsleading.online/live/stream_4.m3u8
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="PL",04 Newcastle Vs Wolve (VN)
-https://pull01.rrwes.live/live/stream-991140_lhd.m3u8?txSecret=09783f771c5ef6ed21f5c96200abb7ac&txTime=65e39a27
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="PL",05 Nottingham Forest Vs Liverpool
-https://sportsleading.online/live/stream_5.m3u8
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="PL",05 Nottingham Forest Vs Liverpool (VN)
-https://pull01.rrwes.live/live/stream-9912041_lhd.m3u8?txSecret=5d41fe170dbe732fa894e264f30cfe34&txTime=65e39a27
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="PL",06 Spur Vs Crystal Palace
-https://sportsleading.online/live/stream_14.m3u8
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="PL",07 Luton Town Vs Aston Villa
-https://sportsleading.online/live/stream_1.m3u8
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="PL",02 Manchester City vs Manchester United
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=7&mid=3936483
 
 
 
 
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",03 Villarreal vs Granada
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=7&mid=3939425
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",08 Sevilla Vs Real Sociedad
-https://sportsleading.online/live/stream_6.m3u8
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",04 Atlético Madrid vs Real Betis
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=7&mid=3939417
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",10 Rayo Vallecano Vs Cadiz
-https://sportsleading.online/live/stream_6.m3u8
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",05 Mallorca vs Girona FC
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=7&mid=3939420
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",11 Getafe Vs Las Palmas
-https://sportsleading.online/live/stream_6.m3u8
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",12 Valencia Vs Real Madrid
-https://sportsleading.online/live/stream_6.m3u8
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",12 Valencia Vs Real Madrid (VN)
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",06 Athletic Club vs Barcelona
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=7&mid=3939416
 
 
 
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",07 Hellas Verona vs Sassuolo
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=7&mid=3957400
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",08 Empoli vs Cagliari
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=7&mid=3957387
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",09 Frosinone vs Lecce
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=7&mid=3957388
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",10 Atalanta vs Bologna
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=7&mid=3957385
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",11 Napoli vs Juventus
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=7&mid=3957394
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",13 Udinese Vs Salernitana
-https://sportsleading.online/live/stream_7.m3u8
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",14 Monza Vs Roma
-https://sportsleading.online/live/stream_7.m3u8
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",14 Monza Vs Roma (VN)
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",15 Torino Vs Fiorentina
-https://sportsleading.online/live/stream_7.m3u8
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",12 Köln vs Bayer Leverkusen
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=7&mid=3950442
 
-
-
-
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",16 VfL Bochum VS Leipzig
-https://sportsleading.online/live/stream_11.m3u8
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",16 VfL Bochum VS Leipzig (VN)
-https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isLogin=1&mid=3950440
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",17 SV Darmstadt Vs Augsburg
-https://sportsleading.online/live/stream_13.m3u8
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",18 Heidenheim Vs Frankfurt
-https://sportsleading.online/live/stream_12.m3u8
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",19 Mainz Vs Mönchengladbach
-https://sportsleading.online/live/stream_10.m3u8
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",20 Union Berlin VS Dortmund
-https://sportsleading.online/live/stream_9.m3u8
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",20 Union Berlin VS Dortmund (VN)
-https://pull01.rrwes.live/live/stream-9912008_lhd.m3u8?txSecret=2a4b88c350e1f237c37db1b6e1325aa8&txTime=65e384d3
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",21 Wolfsburg Vs Stuttgart 
-https://sportsleading.online/live/stream_9.m3u8
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",13 Hoffenheim vs Werder Bremen
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=7&mid=3950445
 
 
 

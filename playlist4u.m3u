@@ -12,6 +12,9 @@ http://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=4088049
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Europa League",04 Sparta Prague Vs Liverpool
 http://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=4088031
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Europa League",04 Sparta Prague Vs Liverpool (VN)
+https://pull.niur.live/live/stream-9912086_lhd.m3u8?txSecret=214c62ac2870420022e1eff4048211e9&txTime=65ea4eaf
+
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Europa League",05 AC Milan Vs Slavia Prague
 http://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=4088046 
 

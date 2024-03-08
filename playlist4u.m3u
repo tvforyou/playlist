@@ -1,56 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Saudi Pro League",01 Al Nassr Vs Al-Raed
-http://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=3974674
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",01 VfB Stuttgart Vs Union Berlin
+http://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=3950456
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Europa League",02 Roma Vs Brighton
-http://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=4088035
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title=" Serie A",02 Napoli Vs Torino
+http://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=3957369
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Europa League",03 Qarabag FK Bayer Leverkusen
-http://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=4088049
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",03 Barcelona Vs Mallorca
+http://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=3939429
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Europa League",04 Sparta Prague Vs Liverpool
-http://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=4088031
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Europa League",04 Sparta Prague Vs Liverpool (VN)
-https://pull.niur.live/live/stream-9912086_lhd.m3u8?txSecret=214c62ac2870420022e1eff4048211e9&txTime=65ea4eaf
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Europa League",05 AC Milan Vs Slavia Prague
-http://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=4088046 
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Europa League",06 Benfica Vs Rangers
-http://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=4088037
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Europa League",07 Freiburg Vs West Ham
-http://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=4088042
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Europa League",08 Marseille Vs Villarreal
-http://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=4088059
-
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Europa Conference League",09 Ajax Vs Aston Villa
-http://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=4088059
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Europa Conference League",10 Molde Vs Club Brugge
-http://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=4088060
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Europa Conference League",11 Olympiacos Vs Maccabi Tel Aviv
-http://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=4088071
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Europa Conference League",12 Sturm Graz Vs Lille
-http://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=4088067
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Europa Conference League",13 Dinamo Zagreb Vs PAOK Thessaloniki
-http://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=4088064
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Europa Conference League",14 Maccabi Haifa Vs Fiorentina
-http://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=4088057
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Europa Conference League",15  Servette Vs Viktoria Plzen
-http://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=4048427
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Europa Conference League",16 Union St.Gilloise Vs Fenerbahce
-http://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=4088063
 
 
 

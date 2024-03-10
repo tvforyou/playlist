@@ -3,75 +3,49 @@
 
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",01 Manchester United vs Everton
-http://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=3936475
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",02 AFC Bournemouth vs Sheffield United
-http://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=3936469
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",03 Crystal Palace vs Luton Town
-http://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=3936472
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",04 Wolverhampton Wanderers vs Fulham
-http://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=3936477
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",05 Arsenal vs Brentford
-http://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=3936467
 
 
+Premier League
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",01. Aston Villa vs Tottenham Hotspur
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=3936468
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",02. Brighton & Hove Albion vs Nottingham Forest
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=3936470
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",03. West Ham United vs Burnley
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=3936476
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",04. Liverpool vs Manchester City
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=3936474
 
+LaLiga
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LALIGA",06 Valencia vs Getafe
-http://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=3939436
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",05. Deportivo Alavés vs Rayo Vallecano
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=3939426
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",06. Las Palmas vs Athletic Club
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=3939434
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",07. Real Madrid vs Celta Vigo
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=3939435
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",08. Real Betis vs Villarreal
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=3939430
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LALIGA",07 Cadiz vs Atletico Madrid
-http://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=3939431
+Serie A
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LALIGA",08 Granada vs Real Sociedad
-http://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=3939433
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",09. Lecce vs Hellas Verona
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=3957376
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",10. Milan vs Empoli
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=3957374
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",11. Juventus vs Atalanta
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=3957364
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",12. Fiorentina vs Roma
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=3957361
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LALIGA",09 Girona vs Osasuna
-http://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=3939432
+Bundesliga
 
-
-
-
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="SERIE A",10 Cagliari vs Salernitana
-http://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=3957360
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="SERIE A",11 Sassuolo vs Frosinone
-http://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=3957371
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="SERIE A",12 Bologna vs Internazionale
-http://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=3957358
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="SERIE A",13 Genoa vs Monza
-http://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=3957363
-
-
-
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",14 Bayern Munchen vs Mainz 05
-http://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=3950451
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",15 RB Leipzig vs Darmstadt 98
-http://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=3950455
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",16 Borussia Mgladbach vs Koln
-http://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=3950452
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",17 Augsburg vs Heidenheim
-http://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=3950449
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",18 Werder Bremen vs Borussia Dortmund
-http://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=3950457
-
-
-
-
-
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",13. VfL Bochum 1848 vs SC Freiburg
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=3950453
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",14. Eintracht Frankfurt vs TSG Hoffenheim
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=3950454
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="EPL",15. Bayer 04 Leverkusen vs VfL Wolfsburg
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=3950450
 
 
 

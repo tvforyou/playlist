@@ -1,25 +1,15 @@
 #EXTM3U
 
+UEFA Champions League
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UCL",Arsenal vs FC Porto
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=6&isTips=0&mid=4048433
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UCL",Barcelona vs Napoli
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=6&isTips=0&mid=4048434
 
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",CBS News Baltimore
-https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",CBS News Baltimore
-https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",CBS News Baltimore
-https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=0&mid=4041123
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",CBS News Chicago
-https://ynzbpull2.nbxhth.cn/live/86209422368993781337.m3u8
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",CBS News Chicago
-https://pull.juqihuo.com/live/stream-491355_lhd.flv
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",CBS News Chicago 2
-https://pull.juqihuo.com/live/stream-956896_lhd.flv
 
 
 

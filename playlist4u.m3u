@@ -5,17 +5,46 @@
 
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UEFA Champions League",1. Atlético Madrid vs Inter
-https://player.huminbird.cn/detail.html?v=235&type=1&pid=8&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4048431
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UEFA Europa League",
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UEFA Champions League",1. Atlético Madrid vs Inter (CN)
-https://pull.juqihuo.com/live/stream-746673_lhd.flv
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UEFA Champions League",2. Borussia Dortmund vs PSV Eindhoven
-https://player.huminbird.cn/detail.html?v=235&type=1&pid=8&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4048430
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UEFA Champions League",2. Borussia Dortmund vs PSV Eindhoven (CN)
-https://pull.juqihuo.com/live/stream-956896_lhd.flv
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UEFA Europa League",1. Rangers vs Benfica
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=8&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4088038
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UEFA Europa League",2. Slavia Praha vs Milan
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=8&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4088047
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UEFA Europa League",3. Villarreal vs Olympique de Marseille
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=8&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4088033
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UEFA Europa League",4. West Ham United vs SC Freiburg
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=8&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4088043
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UEFA Europa League",5. Atalanta vs Sporting
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=8&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4088045
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UEFA Europa League",6. Bayer 04 Leverkusen vs Qarabağ
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=8&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4088048
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UEFA Europa League",7. Brighton & Hove Albion vs Roma
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=8&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4088036
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UEFA Europa League",8. Liverpool vs Sparta Praha
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=8&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4088032
+
+
+
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UEFA Europa Conference League",9. Fenerbahçe vs Royale Union Saint-Gilloise
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=8&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4088063
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UEFA Europa Conference League",10. Fiorentina vs Maccabi Haifa
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=8&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4088069
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UEFA Europa Conference League",11. PAOK vs GNK Dinamo Zagreb
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=8&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4088065
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UEFA Europa Conference League",12. Viktoria Plzeň vs Servette FC
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=8&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4088057
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UEFA Europa Conference League",13. Aston Villa vs Ajax
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=8&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4088058
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UEFA Europa Conference League",14. Club Brugge KV vs Molde FK
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=8&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4088061
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UEFA Europa Conference League",15. Lille vs SK Sturm Graz
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=8&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4088066
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UEFA Europa Conference League",16. Maccabi Tel Aviv vs Olympiacos
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=8&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4088070
 
 
 

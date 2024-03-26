@@ -8,51 +8,35 @@
 
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="FA",Chelsea Vs Leicester City
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="AWCQ",01 Philippines Vs Iraq
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=8&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4036351
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="AWCQ",02 China Vs Singapore
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=8&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4036316
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="AWCQ",03 Vietnam Vs Indonesia
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=8&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4036352
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="AWCQ",04 Thailand Vs South Korea
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=8&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4036315
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="AWCQ",05 Malaysia Vs Oman
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=8&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4036327
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Friendlies",06 England Vs Belgium
 https://player.huminbird.cn/detail.html?v=235&type=1&pid=8&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4091367
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="FA",Manchester United VsLiverpool
-https://player.huminbird.cn/detail.html?v=235&type=1&pid=8&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4091366
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",West Ham United Vs Aston Villa
-https://player.huminbird.cn/detail.html?v=235&type=1&pid=8&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3936465
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Friendlies",07 Germany Vs Netherlands
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=8&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4091367
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Friendlies",08 Slovenia Vs Portugal
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=8&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4091367
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",Juventus Vs Genoa
-https://player.huminbird.cn/detail.html?v=235&type=1&pid=8&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3957349
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",Verona Vs AC Milan
-https://player.huminbird.cn/detail.html?v=235&type=1&pid=8&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3957357
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",Atalanta Vs Fiorentina
-https://player.huminbird.cn/detail.html?v=235&type=1&pid=8&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3957352
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",Roma Vs Sassuolo
-https://player.huminbird.cn/detail.html?v=235&type=1&pid=8&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3957345
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",Inter Vs Napoli
-https://player.huminbird.cn/detail.html?v=235&type=1&pid=8&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3957346
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Friendlies",09 France Vs Chile
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=8&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4091367
 
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",Sevilla Vs Celta Vigo
-https://player.huminbird.cn/detail.html?v=235&type=1&pid=8&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3939445
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",Las Palmas Vs Almeria
-https://player.huminbird.cn/detail.html?v=235&type=1&pid=8&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3939440
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",Villarreal Vs Valencia
-https://player.huminbird.cn/detail.html?v=235&type=1&pid=8&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3939446
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",Rayo Vallecano Vs Real Betis
-https://player.huminbird.cn/detail.html?v=235&type=1&pid=8&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3939443
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",Atletico Madrid Vs Barcelona
-https://player.huminbird.cn/detail.html?v=235&type=1&pid=8&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3939438
-
-
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",Freiburg Vs Bayer Leverkusen
-https://player.huminbird.cn/detail.html?v=235&type=1&pid=8&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3950461
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",Dortmund Vs Frankfurt
-https://player.huminbird.cn/detail.html?v=235&type=1&pid=8&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3950459
-
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Ligue",Montpellier Vs PSG
-https://player.huminbird.cn/detail.html?v=235&type=1&pid=8&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3948452
-
-
-
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Friendlies",10 Spain Vs Brazil
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=8&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4091367
 
 
 

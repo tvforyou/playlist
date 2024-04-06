@@ -11,16 +11,63 @@
 
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",01. Liverpool vs Sheffield United
-https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3936437
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",02. Chelsea vs Manchester United
-https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3936435
 
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",01. Crystal Palace vs Manchester City
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3936420
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="LaLiga",03. Granada vs Valencia
-https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3939412
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",02. Aston Villa vs Brentford
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3936417
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",03. Everton vs Burnley
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3936422
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",04. Fulham vs Newcastle United
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3936423
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",05. Luton Town vs Bournemouth
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3936424
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",06. Wolverhampton vs West Ham United
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3936433
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",07. Brighton & Hove Albion vs Arsenal
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3936418
+
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",08. Milan vs Lecce
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3957305
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",09. Roma vs Lazio
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3957316
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",10. Empoli vs Torino
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3957299
+
+
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",11. Heidenheim vs Bayern München
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3950480
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",12. Köln vs VfL Bochum 
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3950478
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",13.Union Berlin vs Bayer Leverkusen
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3950483
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",14. Mainz 05 vs Darmstadt
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3950482
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",15. SC Freiburg vs RB Leipzig
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3950479
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",16. Dortmund vs Stuttgart
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3950476
+
+
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Ligue 1",17. Paris Saint-Germain vs Clermont Foot
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3948472
 
 
 

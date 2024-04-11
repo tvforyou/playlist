@@ -10,11 +10,33 @@
 
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UEFA Champions League",01. Atletico Madrid Vs Dortmund (1:30 AM)
-https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4100844
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UEFA Europa Conference League",01. Olympiacos FC vs Fenerbahçe
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4100996
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UEFA Champions League",02. PSG Vs Barcelona (1:30 AM)
-https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4100846
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UEFA Europa Conference League",02. Viktoria Plzeň vs Fiorentina
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4100998
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UEFA Europa Conference League",03. Aston Villa vs Lille
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4100997
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UEFA Europa Conference League",04. Club Brugge KV vs PAOK
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4100995
+
+
+
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UEFA Europa League",05. Bayer 04 Leverkusen vs West Ham United
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4100910
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UEFA Europa League",06. Benfica vs Olympique de Marseille
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4100913
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UEFA Europa League",07, Liverpool vs Atalanta
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4100907
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="UEFA Europa League",08, Milan vs Roma
+https://player.huminbird.cn/detail.html?v=235&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4100906
+
 
 
 

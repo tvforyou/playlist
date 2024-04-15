@@ -102,6 +102,9 @@ https://hls.streambtw.com/live/stream_1.m3u8
 https://sons-stream.com/tvon.php?hd=1
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Football",Football 1
+https://v2.sportsonline.si/channels/pt/sporttv3.php
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Football",Football 1
 https://sportsleading.online/live/stream_f1.m3u8
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Football",Football 2

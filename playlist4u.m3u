@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="CL",01. Barcelona Vs PSG
+https://pull.jsjwhzx.xyz/live/stream-551899_lhd.flv
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="CL",02. Dortmund Vs Atletico Madrid
+https://pull.jsjwhzx.xyz/live/stream-617898_lhd.flv
 
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="CL",01. Barcelona Vs PSG 

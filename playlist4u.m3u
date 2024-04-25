@@ -1,73 +1,31 @@
 #EXTM3U
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",Wolves vs Bournemouth
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3936466
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",Crystal Palace vs Newcastle United
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3936460
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",Everton vs Liverpool
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3936461
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",Manchester United vs Sheffield United
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3936464
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",Brighton & Hove Albion vs Manchester City
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3936458
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Coppa Italia",Atalanta vs Fiorentina
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4068879
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",Udinese vs Roma
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3957294
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Ligue 1",Lorient vs Paris Saint-Germain
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3948477
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",Brighton & Hove Albion vs Manchester City
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3936458
+
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",Udinese vs Roma
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3957294
 
 
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",Wolves vs Bournemouth
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3936466
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",Crystal Palace vs Newcastle United
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3936460
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",Everton vs Liverpool
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3936461
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",Manchester United vs Sheffield United
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3936464
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",Brighton & Hove Albion vs Manchester City
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3936458
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Coppa Italia",Atalanta vs Fiorentina
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4068879
-
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Ligue 1",Lorient vs Paris Saint-Germain
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3948477
-
-
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",Wolves vs Bournemouth
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3936466
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",Crystal Palace vs Newcastle United
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3936460
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",Everton vs Liverpool
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3936461
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Premier League",Manchester United vs Sheffield United
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3936464
-
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Coppa Italia",Atalanta vs Fiorentina
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4068879
-
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Ligue 1",Lorient vs Paris Saint-Germain
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3948477
-
-
-
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Serie A",Udinese vs Roma
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3957294
 
 
 

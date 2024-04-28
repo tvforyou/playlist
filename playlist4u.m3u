@@ -154,3 +154,6 @@ https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&isTips=1&isLogin=1&sb
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Bundesliga",Darmstadt 98 vs 1. FC Heidenheim
 https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=3950508
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg" group-title="Live Events", Test
+https://pull.jsjwhzx.xyz/live/stream-308116_lhd.flv?auth_key=1714318139-0-0-e75f59dacd3718e75faa75b91c109313

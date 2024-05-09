@@ -615,31 +615,42 @@
 
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="UEFA Champions League",Real Madrid vs FC Bayern München
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4116280
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="UEFA Europa League",Atalanta vs Olympique de Marseille
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4116766
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="UEFA Europa Conference League",Club Brugge KV vs Fiorentina
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4116770
-
-
+#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="UEFA Europa League",Bayer 04 Leverkusen vs Roma
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4116767
 
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="UEFA Champions League",Real Madrid vs FC Bayern München
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4116280
-
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="UEFA Europa Conference League",Club Brugge KV vs Fiorentina
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4116770
+#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="UEFA Europa Conference League",Olympiacos FC vs Aston Villa
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4116771
 
 
 
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="UEFA Europa League",Atalanta vs Olympique de Marseille
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4116766
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="UEFA Champions League",Real Madrid vs FC Bayern München
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4116280
+#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="UEFA Europa League",Bayer 04 Leverkusen vs Roma
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4116767
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="UEFA Europa Conference League",Club Brugge KV vs Fiorentina
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4116770
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="UEFA Europa Conference League",Olympiacos FC vs Aston Villa
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4116771
+
+
+
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="UEFA Europa League",Atalanta vs Olympique de Marseille
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4116766
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="UEFA Europa League",Bayer 04 Leverkusen vs Roma
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4116767
+
+
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="UEFA Europa Conference League",Olympiacos FC vs Aston Villa
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4116771

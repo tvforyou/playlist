@@ -1007,20 +1007,21 @@
 
 
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="Live Event",Borussia Dortmund vs Real Madrid
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=bb9623c9322679c8d7df265bd742b79c&txTime=665b68f2
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="Live Event",Borussia Dortmund vs Real Madrid
+https://pull.niues.live/live/stream-9912096_lhd.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="Live Event",Borussia Dortmund vs Real Madrid
+https://pull.dangaoka.com/live/stream-259579_lhd.flv
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="Live Event",Olympiacos FC vs Fiorentina
-https://pull.dangaoka.com/live/stream-746673_lhd.flv
+#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="Live Event",Borussia Dortmund vs Real Madrid
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4116921
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="Live Event",Olympiacos FC vs Fiorentina
-https://pull.niues.live/live/stream-9912047_lhd.m3u8
+#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="Live Event",Borussia Dortmund vs Real Madrid
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4116921
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="Live Event",Olympiacos FC vs Fiorentina
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4116923
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="Live Event",Olympiacos FC vs Fiorentina
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4116923
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="Live Event",Olympiacos FC vs Fiorentina
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4116923
-
+#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="Live Event",Borussia Dortmund vs Real Madrid
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4116921

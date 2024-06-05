@@ -1007,21 +1007,75 @@
 
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="Live Event",Borussia Dortmund vs Real Madrid
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=bb9623c9322679c8d7df265bd742b79c&txTime=665b68f2
+#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="Int. Friendly Games",Slovakia vs San Marino
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4132301
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="Live Event",Borussia Dortmund vs Real Madrid
-https://pull.niues.live/live/stream-9912096_lhd.m3u8
+#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="Int. Friendly Games",Denmark vs Sweden
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4128415
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="Live Event",Borussia Dortmund vs Real Madrid
-https://pull.dangaoka.com/live/stream-259579_lhd.flv
+#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="Int. Friendly Games",Norway vs Kosovo
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4130845
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="Int. Friendly Games",Belgium vs Montenegro
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4130782
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="Int. Friendly Games",France vs Luxembourg
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4128384
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="Int. Friendly Games",Spain vs Andorra
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4128401
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="Int. Friendly Games",Mexico vs Uruguay
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4132240
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="Live Event",Borussia Dortmund vs Real Madrid
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4116921
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="Live Event",Borussia Dortmund vs Real Madrid
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4116921
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="Live Event",Borussia Dortmund vs Real Madrid
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4116921
+
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="Int. Friendly Games",Slovakia vs San Marino
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4132301
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="Int. Friendly Games",Denmark vs Sweden
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4128415
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="Int. Friendly Games",Norway vs Kosovo
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4130845
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="Int. Friendly Games",Belgium vs Montenegro
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4130782
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="Int. Friendly Games",France vs Luxembourg
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4128384
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="Int. Friendly Games",Spain vs Andorra
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4128401
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="Int. Friendly Games",Mexico vs Uruguay
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4132240
+
+
+
+
+
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="Int. Friendly Games",Slovakia vs San Marino
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4132301
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="Int. Friendly Games",Denmark vs Sweden
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4128415
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="Int. Friendly Games",Norway vs Kosovo
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4130845
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="Int. Friendly Games",Belgium vs Montenegro
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4130782
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="Int. Friendly Games",France vs Luxembourg
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4128384
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="Int. Friendly Games",Spain vs Andorra
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4128401
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://assets.editorial.aetnd.com/uploads/2014/06/soccer-ball-gettyimages-sb10066898ab-001.jpg" group-title="Int. Friendly Games",Mexico vs Uruguay
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&isTips=1&isLogin=1&sbtcolor=123&pfont=65px&mid=4132240

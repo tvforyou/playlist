@@ -1,18 +1,32 @@
 #EXTM3U
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://tfe-bd.sgp1.digitaloceanspaces.com/posts/27370/copa-logo.jpg" group-title="Copa América",Argentina vs Ecuador
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4126099
+#EXTINF:-1 iso-id="QA" tvg-logo="https://media.touchlinefc.co.uk/ebfc/2024/04/22135823/euro-web.jpg" group-title="Euro 2024",Spain vs Germany
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4048056
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://tfe-bd.sgp1.digitaloceanspaces.com/posts/27370/copa-logo.jpg" group-title="Copa América",Argentina vs Ecuador
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4126099
+#EXTINF:-1 iso-id="QA" tvg-logo="https://media.touchlinefc.co.uk/ebfc/2024/04/22135823/euro-web.jpg" group-title="Euro 2024",Spain vs Germany
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4048056
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://tfe-bd.sgp1.digitaloceanspaces.com/posts/27370/copa-logo.jpg" group-title="Copa América",Argentina vs Ecuador
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4126099
+#EXTINF:-1 iso-id="QA" tvg-logo="https://media.touchlinefc.co.uk/ebfc/2024/04/22135823/euro-web.jpg" group-title="Euro 2024",Spain vs Germany
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4048056
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://media.touchlinefc.co.uk/ebfc/2024/04/22135823/euro-web.jpg" group-title="Euro 2024",Tears of Steel
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 iso-id="QA" tvg-logo="https://media.touchlinefc.co.uk/ebfc/2024/04/22135823/euro-web.jpg" group-title="Euro 2024",Portugal vs France
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4048057
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://media.touchlinefc.co.uk/ebfc/2024/04/22135823/euro-web.jpg" group-title="Euro 2024",Azure 4K HLSv4 m3u8
-http://amssamples.streaming.mediaservices.windows.net/634cd01c-6822-4630-8444-8dd6279f94c6/CaminandesLlamaDrama4K.ism/manifest
+#EXTINF:-1 iso-id="QA" tvg-logo="https://media.touchlinefc.co.uk/ebfc/2024/04/22135823/euro-web.jpg" group-title="Euro 2024",Portugal vs France
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4048057
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://media.touchlinefc.co.uk/ebfc/2024/04/22135823/euro-web.jpg" group-title="Euro 2024",Portugal vs France
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4048057
+
+
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://tfe-bd.sgp1.digitaloceanspaces.com/posts/27370/copa-logo.jpg" group-title="Copa América",Venezuela vs Canada
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4126100
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://tfe-bd.sgp1.digitaloceanspaces.com/posts/27370/copa-logo.jpg" group-title="Copa América",Venezuela vs Canada
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4126100
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://tfe-bd.sgp1.digitaloceanspaces.com/posts/27370/copa-logo.jpg" group-title="Copa América",Venezuela vs Canada
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4126100

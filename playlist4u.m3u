@@ -1,11 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://tfe-bd.sgp1.digitaloceanspaces.com/posts/27370/copa-logo.jpg" group-title="Copa América",Uruguay vs Canada
-tv4u7arNnnG5XWKsASqFIFDs/3pNLVCjLaxHJ9jTMVKamFkRX0QU7CPpgBTXqb0R2WKwcwd2kdSTR8TwDEWIeJ5EnvHyIQcWjdDZNE8YpSSk5Mo=
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://tfe-bd.sgp1.digitaloceanspaces.com/posts/27370/copa-logo.jpg" group-title="Copa América",Uruguay vs Canada
-tv4u7arNnnG5XWKsASqFIFDs/3pNLVCjLaxHJ9jTMVKamFkRX0QU7CPpgBTXqb0R2WKwhdXcJPcDKVmaJZZ0V5FHFjhhRM12f/AA7qbT+sF3MHw=
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://tfe-bd.sgp1.digitaloceanspaces.com/posts/27370/copa-logo.jpg" group-title="Copa América",Uruguay vs Canada
-tv4u7arNnnG5XWKsASqFIFDs/3pNLVCjLaxHJ9jTMVKamFkRX0QU7CPpgBTXqb0R2WKwpgmEW/NzLflVg4bajONwcuB2tHwr9+anVpzhJ+Tbgko=
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.etimg.com/thumb/width-1600,height-900,imgsize-69856,resizemode-75,msid-86803923/news/sports/germany-unveils-logo-for-soccers-euro-2024-tournament.jpg" group-title="Euro 2024",Spain vs England
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4048062
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.etimg.com/thumb/width-1600,height-900,imgsize-69856,resizemode-75,msid-86803923/news/sports/germany-unveils-logo-for-soccers-euro-2024-tournament.jpg" group-title="Euro 2024",Spain vs England
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4048062
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.etimg.com/thumb/width-1600,height-900,imgsize-69856,resizemode-75,msid-86803923/news/sports/germany-unveils-logo-for-soccers-euro-2024-tournament.jpg" group-title="Euro 2024",Spain vs England
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4048062
+
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://tfe-bd.sgp1.digitaloceanspaces.com/posts/27370/copa-logo.jpg" group-title="Copa América",Argentina vs Colombia
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4126106
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://tfe-bd.sgp1.digitaloceanspaces.com/posts/27370/copa-logo.jpg" group-title="Copa América",Argentina vs Colombia
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4126106
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://tfe-bd.sgp1.digitaloceanspaces.com/posts/27370/copa-logo.jpg" group-title="Copa América",Argentina vs Colombia
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4126106

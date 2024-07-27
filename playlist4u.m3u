@@ -1,46 +1,33 @@
 #EXTM3U
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Club Friendly",Bayern Munich vs Rottach Egern
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4173372
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Club Friendly",Chelsea vs Celtic
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4138234
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Club Friendly",Manchester City vs Milan
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4138220
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Club Friendly",Arsenal vs Manchester United
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4088289
 
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Club Friendly",Chelsea vs Celtic
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4138234
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Club Friendly",Chelsea vs Wrexham
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4138233
+#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Club Friendly",Manchester City vs Milan
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4138220
 
-
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Club Friendly",Arsenal vs Bournemouth
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4172497
-
-
+#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Club Friendly", vs Manchester United
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4088289
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Club Friendly",Bayern Munich vs Rottach Egern
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4173372
+#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Club Friendly",Chelsea vs Celtic
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4138234
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Club Friendly",Manchester City vs Milan
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4138220
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Club Friendly",Arsenal vs Manchester United
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4088289
 
 
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Club Friendly",Chelsea vs Wrexham
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4138233
-
-
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Club Friendly",Arsenal vs Bournemouth
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4172497
-
-
-
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Club Friendly",Bayern Munich vs Rottach Egern
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4173372
-
-
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Club Friendly",Chelsea vs Wrexham
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4138233
-
-
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Club Friendly",Arsenal vs Bournemouth
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4172497

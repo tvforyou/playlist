@@ -1,7 +1,47 @@
 #EXTM3U
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Super Cup",Real Madrid vS Atalanta
-https://player.huminbird.cn/detail.html?v=400&amp;type=1&amp;pid=1&amp;isTips=1&amp;isLogin=1&amp;sbtcolor=123&amp;pfont=65px&amp;mid=4132641
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Super Cup",Real Madrid vS Atalanta
-https://pull.dangaoka.com/live/stream-551866_lhd.flv?auth_key=1723666224-0-0-07d4539750d4cbf924507c2c73c93ac0
+#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Premier League",Manchester United vs Fulham
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4139722
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Premier League",Manchester United vs Fulham
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4139722
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Premier League",Manchester United vs Fulham
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4139722
+
+
+
+
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="LaLiga",Celta Vigo vs Deportivo Alavés
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4140204
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="LaLiga",Celta Vigo vs Deportivo Alavés
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4140204
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="LaLiga",Celta Vigo vs Deportivo Alavés
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4140204
+
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="LaLiga",Las Palmas vs Sevilla
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4140205
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="LaLiga",Las Palmas vs Sevilla
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4140205
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="LaLiga",Las Palmas vs Sevilla
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4140205
+
+
+
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Ligue 1",Le Havre vs Paris Saint-Germain
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4143598
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Ligue 1",Le Havre vs Paris Saint-Germain
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4143598
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Ligue 1",Le Havre vs Paris Saint-Germain
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4143598
+

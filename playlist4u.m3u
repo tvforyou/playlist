@@ -4,71 +4,205 @@
 #EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Premier League",Leicester City vs Tottenham Hotspur
 https://pull.niues.live/live/stream-499765_lhd.m3u8?auth_key=1724097681-0-0-01d5c2b1dbf1284cd07bd52cc0f49ee0
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Premier League",Leicester City vs Tottenham Hotspur
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4139754
 
 
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Serie A",Lecce vs Atalanta
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4149457
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Serie A",Juventus vs Como
-https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1724097741-0-0-b51ae4155ca5aef50fd6eaa8ca55cfe8
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Serie A",Juventus vs Como
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4149455
 
 
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="LaLiga",Real Valladolid vs Espanyol
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4145376
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="LaLiga",Villarreal vs Atlético Madrid
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4140209
-
-
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Premier League",Leicester City vs Tottenham Hotspur
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4139754
 
 
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Serie A",Lecce vs Atalanta
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4149457
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Serie A",Juventus vs Como
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4149455
 
 
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",TNT Sports 1
+https://vipgoodlive-tvs.creativehub.sbs/TNT_Sports_1/index.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="LaLiga",Real Valladolid vs Espanyol
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4145376
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",TNT Sports 2
+https://vipgoodlive-tvs.creativehub.sbs/TNT_Sports_2/index.m3u8
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="LaLiga",Villarreal vs Atlético Madrid
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4140209
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",TNT Sports 3
+https://vipgoodlive-tvs.creativehub.sbs/TNT_Sports_3/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",TNT Sports 4
+https://vipgoodlive-tvs.creativehub.sbs/TNT_Sports_4/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",Sky Sports Premier League
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Premier_League/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",Sky Sports Football
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Football_Live_TV/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",Sky Sports Main Event
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Main_Event/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",Sky Sports Action
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Action_Live_TV/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",Sky Sports Mix
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Mix_Live_TV/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",Sky Sports Arena
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Arena_Live_TV/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",Sky Sports News
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_News_Live_TV/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",Sky Sports Cricket
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Cricket_Live_TV/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",Sky Sports Tennis
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Tennis/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",Sky Sports F1
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_F1_Live_TV/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",Sky Sports Golf
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Golf_Live_TV/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",Sky Sports Racing
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Racing_Live_TV/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",UK Sky Cinema Comedy
+https://vipgoodlive-tvs.creativehub.sbs/UK_Sky_Cinema_Comedy_Live_TV/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",UK Sky Cinema Family
+https://vipgoodlive-tvs.creativehub.sbs/UK_Sky_Cinema_Family_Live_TV/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",Bein Sports USA
+https://vipgoodlive-tvs.creativehub.sbs/Bein_Sports_USA_Live_TV/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",Bein Sports English 2
+https://vipgoodlive-tvs.creativehub.sbs/Bein_Sports_English_2_Live_TV/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",Tennis Channel
+https://vipgoodlive-tvs.creativehub.sbs/Tennis_Channel_Live_TV/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",La Liga TV
+https://vipgoodlive-tvs.creativehub.sbs/La_Liga_TV_Live_TV/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",SuperSport Premier League
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Premier_League_Live_TV/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",SuperSport LaLiga
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_LaLiga_Live_TV/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",SuperSport Action
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Action_Live_TV/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",SuperSport Blitz
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Blitz_Live_TV/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",SuperSport Cricket
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Cricket_Live_TV/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",SuperSport Football
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Football_Live_TV/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",SuperSport Golf
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Golf_Live_TV/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",SuperSport Rugby
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Rugby_Live_TV/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",SuperSport Tennis
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Tennis_Live_TV/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",Variety 1
+https://vipgoodlive-tvs.creativehub.sbs/Variety_1_Live_TV/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",Variety 2
+https://vipgoodlive-tvs.creativehub.sbs/Variety_2_Live_TV/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",Variety 3
+https://vipgoodlive-tvs.creativehub.sbs/Variety_3_Live_TV/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",Variety 4
+https://vipgoodlive-tvs.creativehub.sbs/Variety_4_Live_TV/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",Eurosport 1
+https://vipgoodlive-tvs.creativehub.sbs/Eurosport_1_Live_TV/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",Eurosport 2
+https://vipgoodlive-tvs.creativehub.sbs/Eurosport_2_Live_TV/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",Premier Sports 1
+https://vipgoodlive-tvs.creativehub.sbs/Premier_Sports_1/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",Premier Sports 2
+https://vipgoodlive-tvs.creativehub.sbs/Premier_Sports_2/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",Golf Channel
+https://vipgoodlive-tvs.creativehub.sbs/Golf_Channel_Live_TV/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",MLB Network
+https://vipgoodlive-tvs.creativehub.sbs/MLB_Network_Live_TV/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",NBA TV
+https://vipgoodlive-tvs.creativehub.sbs/NBA_TV_Live_TV/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",NFL Network
+https://vipgoodlive-tvs.creativehub.sbs/NFL_Network_Live_TV/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",NFL REDZONE
+https://vipgoodlive-tvs.creativehub.sbs/NFL_REDZONE_Live_TV/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",NHL Network
+https://vipgoodlive-tvs.creativehub.sbs/NHL_Network_Live_TV/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",WWE
+https://vipgoodlive-tvs.creativehub.sbs/WWE_Live_TV/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",Willow Cricket
+https://vipgoodlive-tvs.creativehub.sbs/Willow_Cricket_Live_TV/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",Willow Extra
+https://vipgoodlive-tvs.creativehub.sbs/Willow_Extra_Live_TV/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",World Fishing Network
+https://vipgoodlive-tvs.creativehub.sbs/World_Fishing_Network_Live_TV/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",ESPN
+https://vipgoodlive-tvs.creativehub.sbs/ESPN_Live_TV/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",ESPN 2
+https://vipgoodlive-tvs.creativehub.sbs/ESPN_2_Live_TV/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",ESPN News
+https://vipgoodlive-tvs.creativehub.sbs/ESPN_News_Live_TV/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",ESPN U
+https://vipgoodlive-tvs.creativehub.sbs/ESPN_U_Live_TV/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",ITV 1
+https://vipgoodlive-tvs.creativehub.sbs/ITV_1/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",ITV 2
+https://vipgoodlive-tvs.creativehub.sbs/ITV_2/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",ITV 3
+https://vipgoodlive-tvs.creativehub.sbs/ITV_3/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",ITV4
+https://vipgoodlive-tvs.creativehub.sbs/ITV_4/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",MUTV
+https://vipgoodlive-tvs.creativehub.sbs/MUTV_Live_TV/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",LFC TV
+https://vipgoodlive-tvs.creativehub.sbs/LFC_TV_Live_TV/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",CNBC
+https://vipgoodlive-tvs.creativehub.sbs/CNBC_Live_TV/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",Fox Sports 1
+https://vipgoodlive-tvs.creativehub.sbs/Fox_Sports_1_Live_TV/index.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="TV Channel",Fox Sports 2
+https://vipgoodlive-tvs.creativehub.sbs/Fox_Sports_2_Live_TV/index.m3u8
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Premier League",Leicester City vs Tottenham Hotspur
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4139754
-
-
-
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Serie A",Lecce vs Atalanta
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4149457
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Serie A",Juventus vs Como
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4149455
-
-
-
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="LaLiga",Real Valladolid vs Espanyol
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4145376
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="LaLiga",Villarreal vs Atlético Madrid
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4140209

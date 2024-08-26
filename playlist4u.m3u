@@ -1,154 +1,30 @@
 #EXTM3U
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Live",Bournemouth vs Newcastle
-https://jct5ltjbjpunpijs.multicdn.top/live/OlympiqueHD/index.m3u8
+#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Serie A",Cagliari vs Como
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4149461
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Live",Bournemouth vs Newcastle
-https://mmfootball.cryptken.com/player?url=https://p2mim8jorwjw1m6u.multicdn.top/10/index.m3u8
+#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Serie A",Hellas Verona vs Juventus
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4149469
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Premier League",Bournemouth vs Newcastle
-tv4u7arNnnG5XWKsASqFIFDs/3pNLVCjLaxHJ9jTMVKamFkRX0QU7CPpgBTXqb0R2WKwhdXcJPcDKVmaJZZ0V5FHFm6hS4XpM64Luh5xdNZioXo=
+#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="LaLiga",Villarreal vs Celta Vigo
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4140225
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Premier League",Wolves vs Chelsea
-tv4u7arNnnG5XWKsASqFIFDs/3pNLVCjLaxHJ9jTMVKamFkRX0QU7CPpgBTXqb0R2WKwhdXcJPcDKVmaJZZ0V5FHFudJVjXDJQajsiZ/uPUIxnU=
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Premier League",Liverpool vs Brentford
-tv4u7arNnnG5XWKsASqFIFDs/3pNLVCjLaxHJ9jTMVKamFkRX0QU7CPpgBTXqb0R2WKwhdXcJPcDKVmaJZZ0V5FHFtWWkJB4B0tbPqS/vTDHXWE=
+#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Serie A",Cagliari vs Como
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4149461
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Serie A",Hellas Verona vs Juventus
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4149469
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="LaLiga",Villarreal vs Celta Vigo
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4140225
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="LaLiga",Real Madrid vs Real Valladolid
-tv4u7arNnnG5XWKsASqFIFDs/3pNLVCjLaxHJ9jTMVKamFkRX0QU7CPpgBTXqb0R2WKwhdXcJPcDKVmaJZZ0V5FHFuuSUur9XIrVNDhY5z662OE=
+#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Serie A",Cagliari vs Como
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4149461
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="LaLiga",Leganés vs Las Palmas
-tv4u7arNnnG5XWKsASqFIFDs/3pNLVCjLaxHJ9jTMVKamFkRX0QU7CPpgBTXqb0R2WKwhdXcJPcDKVmaJZZ0V5FHFnONfAoaFOCGJvWUiHXSfuw=
+#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Serie A",Hellas Verona vs Juventus
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4149469
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="LaLiga",Deportivo Alavés vs Real Betis
-tv4u7arNnnG5XWKsASqFIFDs/3pNLVCjLaxHJ9jTMVKamFkRX0QU7CPpgBTXqb0R2WKwhdXcJPcDKVmaJZZ0V5FHFuv6scfrw3vycbxrSd++ZuM=
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="LaLiga",Atlético Madrid vs Girona FC
-tv4u7arNnnG5XWKsASqFIFDs/3pNLVCjLaxHJ9jTMVKamFkRX0QU7CPpgBTXqb0R2WKwhdXcJPcDKVmaJZZ0V5FHFjUark8nixp206b4xepNWM4=
-
-
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Serie A",Fiorentina vs Venezia
-tv4u7arNnnG5XWKsASqFIFDs/3pNLVCjLaxHJ9jTMVKamFkRX0QU7CPpgBTXqb0R2WKwhdXcJPcDKVmaJZZ0V5FHFlqYo4BHWKn8GlbYgkCFeX4=
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Serie A",Torino vs Atalanta
-tv4u7arNnnG5XWKsASqFIFDs/3pNLVCjLaxHJ9jTMVKamFkRX0QU7CPpgBTXqb0R2WKwhdXcJPcDKVmaJZZ0V5FHFv3Q5SERgkeiBOWt/QXWjaQ=
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Serie A",Napoli vs Bologna
-tv4u7arNnnG5XWKsASqFIFDs/3pNLVCjLaxHJ9jTMVKamFkRX0QU7CPpgBTXqb0R2WKwhdXcJPcDKVmaJZZ0V5FHFrHMwslkDfl24y7hwP7W3YE=
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Serie A",Roma vs Empoli
-tv4u7arNnnG5XWKsASqFIFDs/3pNLVCjLaxHJ9jTMVKamFkRX0QU7CPpgBTXqb0R2WKwhdXcJPcDKVmaJZZ0V5FHFm4DPucCHPDdGuUINXfmoys=
-
-
-
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Bundesliga",Wolfsburg vs Bayern München
-tv4u7arNnnG5XWKsASqFIFDs/3pNLVCjLaxHJ9jTMVKamFkRX0QU7CPpgBTXqb0R2WKwhdXcJPcDKVmaJZZ0V5FHFoW8TVBeaHnJVVNNuuFe+kk=
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Bundesliga",FC St. Pauli vs Heidenheim
-tv4u7arNnnG5XWKsASqFIFDs/3pNLVCjLaxHJ9jTMVKamFkRX0QU7CPpgBTXqb0R2WKwhdXcJPcDKVmaJZZ0V5FHFkLkpwk9AL75FY1Z8g3Ydjw=
-
-
-
-
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Premier League",Bournemouth vs Newcastle
-tv4u7arNnnG5XWKsASqFIFDs/3pNLVCjLaxHJ9jTMVKamFkRX0QU7CPpgBTXqb0R2WKwcwd2kdSTR8TwDEWIeJ5EnpFr7YuEPAaamzUVrWbzfH8=
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Premier League",Wolves vs Chelsea
-tv4u7arNnnG5XWKsASqFIFDs/3pNLVCjLaxHJ9jTMVKamFkRX0QU7CPpgBTXqb0R2WKwcwd2kdSTR8TwDEWIeJ5EnldSsc0mm78FH/4SbyW44bs=
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Premier League",Liverpool vs Brentford
-tv4u7arNnnG5XWKsASqFIFDs/3pNLVCjLaxHJ9jTMVKamFkRX0QU7CPpgBTXqb0R2WKwcwd2kdSTR8TwDEWIeJ5EnhGQB+CwP2CZEktshGyYRgw=
-
-
-
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="LaLiga",Real Madrid vs Real Valladolid
-tv4u7arNnnG5XWKsASqFIFDs/3pNLVCjLaxHJ9jTMVKamFkRX0QU7CPpgBTXqb0R2WKwcwd2kdSTR8TwDEWIeJ5Enn3LWl9lE3w0PKOJaErAJcc=
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="LaLiga",Leganés vs Las Palmas
-tv4u7arNnnG5XWKsASqFIFDs/3pNLVCjLaxHJ9jTMVKamFkRX0QU7CPpgBTXqb0R2WKwcwd2kdSTR8TwDEWIeJ5EnjOjhJAzj7fOtu5QAWgX448=
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="LaLiga",Deportivo Alavés vs Real Betis
-tv4u7arNnnG5XWKsASqFIFDs/3pNLVCjLaxHJ9jTMVKamFkRX0QU7CPpgBTXqb0R2WKwcwd2kdSTR8TwDEWIeJ5EnumWs5PX6EXpcHoMTjgVyMo=
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="LaLiga",Atlético Madrid vs Girona FC
-tv4u7arNnnG5XWKsASqFIFDs/3pNLVCjLaxHJ9jTMVKamFkRX0QU7CPpgBTXqb0R2WKwcwd2kdSTR8TwDEWIeJ5EnozQPOk3o0Wa91gIj8Rqhvg=
-
-
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Serie A",Fiorentina vs Venezia
-tv4u7arNnnG5XWKsASqFIFDs/3pNLVCjLaxHJ9jTMVKamFkRX0QU7CPpgBTXqb0R2WKwcwd2kdSTR8TwDEWIeJ5Enlt7G8TVjZ68SzvVZgXhJ7A=
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Serie A",Torino vs Atalanta
-tv4u7arNnnG5XWKsASqFIFDs/3pNLVCjLaxHJ9jTMVKamFkRX0QU7CPpgBTXqb0R2WKwcwd2kdSTR8TwDEWIeJ5EnipinRaTHT2mpc9P4/zWSOo=
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Serie A",Napoli vs Bologna
-tv4u7arNnnG5XWKsASqFIFDs/3pNLVCjLaxHJ9jTMVKamFkRX0QU7CPpgBTXqb0R2WKwcwd2kdSTR8TwDEWIeJ5EnsrXR3CBpLZYgsU1wNbUFFw=
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Serie A",Roma vs Empoli
-tv4u7arNnnG5XWKsASqFIFDs/3pNLVCjLaxHJ9jTMVKamFkRX0QU7CPpgBTXqb0R2WKwcwd2kdSTR8TwDEWIeJ5EnkHbQpV4JzHEXn8GDeAs03g=
-
-
-
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Bundesliga",Wolfsburg vs Bayern München
-tv4u7arNnnG5XWKsASqFIFDs/3pNLVCjLaxHJ9jTMVKamFkRX0QU7CPpgBTXqb0R2WKwcwd2kdSTR8TwDEWIeJ5EnpixDFDCc0C1r4LTqF+Wl6Y=
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Bundesliga",FC St. Pauli vs Heidenheim
-tv4u7arNnnG5XWKsASqFIFDs/3pNLVCjLaxHJ9jTMVKamFkRX0QU7CPpgBTXqb0R2WKwcwd2kdSTR8TwDEWIeJ5EnjZmLwqUh0b/c7LBxDMjRPY=
-
-
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Premier League",Bournemouth vs Newcastle
-tv4u7arNnnG5XWKsASqFIFDs/3pNLVCjLaxHJ9jTMVKamFkRX0QU7CPpgBTXqb0R2WKwpgmEW/NzLflVg4bajONwci/b0YmaIHAlmueC8RFifu8=
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Premier League",Wolves vs Chelsea
-tv4u7arNnnG5XWKsASqFIFDs/3pNLVCjLaxHJ9jTMVKamFkRX0QU7CPpgBTXqb0R2WKwpgmEW/NzLflVg4bajONwciBxL97FgQm1ImaVkI+ipe0=
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Premier League",Liverpool vs Brentford
-tv4u7arNnnG5XWKsASqFIFDs/3pNLVCjLaxHJ9jTMVKamFkRX0QU7CPpgBTXqb0R2WKwpgmEW/NzLflVg4bajONwcnMu3vRUhdL7mlJ/nPcMvcw=
-
-
-
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="LaLiga",Real Madrid vs Real Valladolid
-tv4u7arNnnG5XWKsASqFIFDs/3pNLVCjLaxHJ9jTMVKamFkRX0QU7CPpgBTXqb0R2WKwpgmEW/NzLflVg4bajONwcl6UAhZNwZytqtE4jZnQsiE=
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="LaLiga",Leganés vs Las Palmas
-tv4u7arNnnG5XWKsASqFIFDs/3pNLVCjLaxHJ9jTMVKamFkRX0QU7CPpgBTXqb0R2WKwpgmEW/NzLflVg4bajONwclUwyLKZ1vHmeZHylgpvyuQ=
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="LaLiga",Deportivo Alavés vs Real Betis
-tv4u7arNnnG5XWKsASqFIFDs/3pNLVCjLaxHJ9jTMVKamFkRX0QU7CPpgBTXqb0R2WKwpgmEW/NzLflVg4bajONwciRDaVOmkstmWksHve82apU=
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="LaLiga",Atlético Madrid vs Girona FC
-tv4u7arNnnG5XWKsASqFIFDs/3pNLVCjLaxHJ9jTMVKamFkRX0QU7CPpgBTXqb0R2WKwpgmEW/NzLflVg4bajONwcocd4BYoUejz4bXVbM0wrhE=
-
-
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Serie A",Fiorentina vs Venezia
-tv4u7arNnnG5XWKsASqFIFDs/3pNLVCjLaxHJ9jTMVKamFkRX0QU7CPpgBTXqb0R2WKwpgmEW/NzLflVg4bajONwcvr/jIGmLkJvJiWcMEFKizk=
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Serie A",Torino vs Atalanta
-tv4u7arNnnG5XWKsASqFIFDs/3pNLVCjLaxHJ9jTMVKamFkRX0QU7CPpgBTXqb0R2WKwpgmEW/NzLflVg4bajONwcpVP3megYf0klh4T7tbwx60=
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Serie A",Napoli vs Bologna
-tv4u7arNnnG5XWKsASqFIFDs/3pNLVCjLaxHJ9jTMVKamFkRX0QU7CPpgBTXqb0R2WKwpgmEW/NzLflVg4bajONwcjTEPUij96W8PX8UxPIBowM=
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Serie A",Roma vs Empoli
-tv4u7arNnnG5XWKsASqFIFDs/3pNLVCjLaxHJ9jTMVKamFkRX0QU7CPpgBTXqb0R2WKwpgmEW/NzLflVg4bajONwcnzntxS+Kz/vwo89kMgHvzg=
-
-
-
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Bundesliga",Wolfsburg vs Bayern München
-tv4u7arNnnG5XWKsASqFIFDs/3pNLVCjLaxHJ9jTMVKamFkRX0QU7CPpgBTXqb0R2WKwpgmEW/NzLflVg4bajONwcuqdnl/NHMDPOtZjH+mMUvA=
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="Bundesliga",FC St. Pauli vs Heidenheim
-tv4u7arNnnG5XWKsASqFIFDs/3pNLVCjLaxHJ9jTMVKamFkRX0QU7CPpgBTXqb0R2WKwpgmEW/NzLflVg4bajONwclPDFJTHmzLbbjci4oGAXEM=
+#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="LaLiga",Villarreal vs Celta Vigo
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4140225

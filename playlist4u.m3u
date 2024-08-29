@@ -1,38 +1,39 @@
 #EXTM3U
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="LaLiga",Athletic Club vs Valencia
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4140218
+#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="LaLiga",Girona FC vs Osasuna
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4140220
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="LaLiga",Real Valladolid vs Leganés
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4140224
+#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="LaLiga",Las Palmas vs Real Madrid
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4140221
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="LaLiga",Atlético Madrid vs Espanyol
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4145378
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="LaLiga",Real Sociedad vs Deportivo Alavés
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4140223
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="LaLiga",Athletic Club vs Valencia
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4140218
+#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="UECL Qualify ",Servette vs Chelsea 
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4198510
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="LaLiga",Real Valladolid vs Leganés
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4140224
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="LaLiga",Atlético Madrid vs Espanyol
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4145378
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="LaLiga",Real Sociedad vs Deportivo Alavés
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4140223
+#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="LaLiga",Girona FC vs Osasuna
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4140220
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="LaLiga",Athletic Club vs Valencia
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4140218
+#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="LaLiga",Las Palmas vs Real Madrid
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4140221
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="LaLiga",Real Valladolid vs Leganés
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4140224
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="LaLiga",Atlético Madrid vs Espanyol
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4145378
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="LaLiga",Real Sociedad vs Deportivo Alavés
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4140223
+#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="UECL Qualify ",Servette vs Chelsea 
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4198510
+
+
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="LaLiga",Girona FC vs Osasuna
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4140220
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="LaLiga",Las Palmas vs Real Madrid
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4140221
+
+
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-football.jpg" group-title="UECL Qualify ",Servette vs Chelsea 
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4198510

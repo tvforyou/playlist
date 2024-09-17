@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="EFL Cup",Manchester United vs Barnsley
+https://pull.niur.live/live/stream-9912089_lhd.m3u8?txSecret=4bc5ee01e50664a1f841e7e90b4a923d&txTime=66ea24c0
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="EFL Cup",Manchester United vs Barnsley
+https://pull.dangaoka.com/live/stream-743589_lhd.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="EFL Cup",Manchester United vs Barnsley
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4205770
+
 #EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="UEFA Champions League",Juventus vs PSV Eindhoven
 https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4205522
 

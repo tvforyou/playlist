@@ -1,0 +1,35 @@
+#EXTM3U
+
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://assets1.cbsnewsstatic.com/hub/i/2023/05/03/cf068014-6668-4065-9a80-ddda6ea573dc/social-seofeatured-baltimore-1.jpg" group-title="CBS News",CBS News Baltimore
+https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://assets1.cbsnewsstatic.com/hub/i/2023/04/17/16566740-7f05-4c48-af6c-d7ffc118abf5/social-seofeatured-chicago.jpg" group-title="CBS News",CBS News Chicago
+https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://assets1.cbsnewsstatic.com/hub/i/2022/06/08/50d46038-bfea-4323-91f9-5e400b183bf4/kcnc-cbs-colorado-1920x1080.jpg" group-title="CBS News",CBS News Colorado
+https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://bnonews.com/wp-content/uploads/2022/06/2022CBSNewsDFW.jpg" group-title="CBS News",CBS News Dallas Ft Worth
+https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://assets1.cbsnewsstatic.com/hub/i/2022/08/31/803f3004-075f-4ef7-b6dd-7ab69beddb7f/cbs-news-detroit-1920x1080.jpg" group-title="CBS News",CBS News Detroit
+https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://assets1.cbsnewsstatic.com/hub/i/2023/01/05/b2bdf06b-325f-4e2b-81dd-c6965c61ae5b/kcal-1280x720-screen.png" group-title="CBS News",CBS News Los Angeles
+https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://assets3.cbsnewsstatic.com/hub/i/r/2022/05/26/2f79446c-c364-4baf-8dca-3215c1f61000/thumbnail/640x360/80d7e86097c053abba258073d89e3aa2/wfor-cbs-miami-1920x1080.jpg?v=63c131a0051f3823d92b0d1dffb5e0e4" group-title="CBS News",CBS News Miami
+https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://assets1.cbsnewsstatic.com/hub/i/r/2023/11/06/417717e0-e68e-4aca-9a4e-354376806fcf/thumbnail/1280x720/94f9d3b934fbca8f7be43b87c3b03820/keyart-cbsnews-stream-1920x1080.jpg?v=55c0f85ebcd2b956528d9c6f5a7e8871" group-title="CBS News",CBS News National
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://assets3.cbsnewsstatic.com/hub/i/r/2022/02/15/f58e095f-7fa4-40bb-865a-fcb36a311acf/thumbnail/640x360/32b925a129cb39b82791854114ba0c74/cbs2-wlny-cbs-news-new-york.jpg?v=63c131a0051f3823d92b0d1dffb5e0e4" group-title="CBS News",CBS News New York
+https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://bnonews.com/wp-content/uploads/2022/06/2022CBSNewsPittsburgh.jpg" group-title="CBS News",CBS News Pittsburgh
+https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://assets1.cbsnewsstatic.com/hub/i/2023/05/10/f81a76a2-0c8c-4e44-a92b-a59424d8e9b3/social-seofeatured-sacramento.jpg" group-title="CBS News",CBS News Sacramento
+https://cbsnews.akamaized.net/hls/live/2020607/cbsnsac_2/master.m3u8

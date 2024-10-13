@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://ddz4ak4pa3d19.cloudfront.net/cache/56/05/56058e1fbc10ae4e87e7c2c5e0a914fa.jpg" group-title="WING IT!",WING IT!
+https://video.blender.org/static/streaming-playlists/hls/ee623d80-fd8d-4a2a-8aae-1f5acf796f27/4441e465-9ee1-4ef2-b7a2-1a4823c185ee-master.m3u8
+
 #EXTINF:-1 iso-id="QA" tvg-logo="https://i.pinimg.com/736x/46/d8/b1/46d8b1cd05c8c4cbcfc2f4747e2114a4.jpg" group-title="Spring",Spring
 https://vids.tekdmn.me/static/redundancy/3d95fb3d-c866-42c8-9db1-fe82f48ccb95-804.mp4
 

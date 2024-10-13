@@ -1,6 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://i.pinimg.com/736x/46/d8/b1/46d8b1cd05c8c4cbcfc2f4747e2114a4.jpg" group-title="Spring",Spring
+https://vids.tekdmn.me/static/redundancy/3d95fb3d-c866-42c8-9db1-fe82f48ccb95-804.mp4
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://i.pinimg.com/736x/46/d8/b1/46d8b1cd05c8c4cbcfc2f4747e2114a4.jpg" group-title="Spring",Spring
 https://www.youtube.com/embed/WhWc3b3KhnY?si=CF9WCGQlQ-sIKB38
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://www.kjartantysdal.com/wp-content/uploads/2023/02/kjartan-tysdal-tos-poster-02-edited-1-1024x640.jpg?_t=1677519909" group-title="Tears of Steel",Tears of Steel

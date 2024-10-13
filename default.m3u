@@ -1,5 +1,9 @@
 #EXTM3U
+#EXTINF:-1 iso-id="QA" tvg-logo="https://www.kjartantysdal.com/wp-content/uploads/2023/02/kjartan-tysdal-tos-poster-02-edited-1-1024x640.jpg?_t=1677519909" group-title="Tears of Steel",Tears of Steel
+https://test-streams.mux.dev/tos_ismc/main.m3u8
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Big.Buck.Bunny.-.Opening.Screen.png" group-title="Big Buck Bunny",Big Buck Bunny
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://assets1.cbsnewsstatic.com/hub/i/2023/05/03/cf068014-6668-4065-9a80-ddda6ea573dc/social-seofeatured-baltimore-1.jpg" group-title="CBS News",CBS News Baltimore
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8

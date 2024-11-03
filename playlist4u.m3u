@@ -1,174 +1,33 @@
 #EXTM3U
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Newcastle United vs Arsenal
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4140000
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Spur Vs Aston Villa
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4140005
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Bournemouth vs Manchester City
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4139989
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Manchester United Vs Chelsea
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4140010
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Ipswich Town vs Leicester City
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4139994
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Barcelona Vs Espanyol
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4145387
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Liverpool vs Brighton & Hove Albion
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4139996
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Hellas Verona Vs Roma
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4149559
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Nottingham Forest vs West Ham United
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4140002
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Inter Vs Venezia
+https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4149552
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Southampton vs Everton
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4140009
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Spur Vs Aston Villa
+https://pull.dangaoka.com/live/stream-505050_lhd.flv?auth_key=1730645471-0-0-dae998f147e23e2bf3ceadd6bbf0ffc5
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Wolverhampton vs Crystal Palace
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4140006
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Manchester United Vs Chelsea
+https://pull.dangaoka.com/live/stream-505050_lhd.flv?auth_key=1730645471-0-0-dae998f147e23e2bf3ceadd6bbf0ffc5
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="LaLiga",Osasuna vs Real Valladolid
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4140295
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Barcelona Vs Espanyol
+https://pull.dangaoka.com/live/stream-308116_lhd.flv?auth_key=1730645531-0-0-a8ff3b5726c6d1b2a7529f06186d7fad
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="LaLiga",Girona FC vs Leganés
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4140294
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Hellas Verona Vs Roma
+https://pull.dangaoka.com/live/stream-765648_lhd.flv?auth_key=1730645532-0-0-17de9812bf7a0c31bdf502d46a534c13
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Serie A",Bologna vs Lecce
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4149550
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Serie A",Udinese vs Juventus
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4149558
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Serie A",Monza vs Milan
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4149554
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Bundesliga",Eintracht Frankfurt vs VfL Bochum 1848
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4149017
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Bundesliga",FC Bayern München vs 1. FC Union Berlin
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4149014
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Bundesliga",Holstein Kiel vs 1. FC Heidenheim
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4149020
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Bundesliga",TSG Hoffenheim vs FC St. Pauli
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4149019
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Bundesliga",VfL Wolfsburg vs FC Augsburg
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4149021
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Bundesliga",Borussia Dortmund vs RB Leipzig
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4149016
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Ligue 1",Paris Saint-Germain vs RC Lens
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=7&mid=4143767
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Inter Vs Venezia
+https://pull.dangaoka.com/live/stream-551866_lhd.flv?auth_key=1730645591-0-0-5fcbad90d7ae639c8b516ec14054c2ff
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Newcastle United vs Arsenal
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4140000
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Bournemouth vs Manchester City
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4139989
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Ipswich Town vs Leicester City
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4139994
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Liverpool vs Brighton & Hove Albion
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4139996
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Nottingham Forest vs West Ham United
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4140002
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Southampton vs Everton
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4140009
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Wolverhampton vs Crystal Palace
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4140006
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="LaLiga",Osasuna vs Real Valladolid
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4140295
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="LaLiga",Girona FC vs Leganés
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4140294
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Serie A",Bologna vs Lecce
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4149550
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Serie A",Udinese vs Juventus
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4149558
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Serie A",Monza vs Milan
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4149554
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Bundesliga",Eintracht Frankfurt vs VfL Bochum 1848
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4149017
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Bundesliga",FC Bayern München vs 1. FC Union Berlin
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4149014
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Bundesliga",Holstein Kiel vs 1. FC Heidenheim
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4149020
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Bundesliga",TSG Hoffenheim vs FC St. Pauli
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4149019
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Bundesliga",VfL Wolfsburg vs FC Augsburg
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4149021
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Bundesliga",Borussia Dortmund vs RB Leipzig
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4149016
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Ligue 1",Paris Saint-Germain vs RC Lens
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=6&mid=4143767
-
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Newcastle United vs Arsenal
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4140000
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Bournemouth vs Manchester City
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4139989
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Ipswich Town vs Leicester City
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4139994
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Liverpool vs Brighton & Hove Albion
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4139996
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Nottingham Forest vs West Ham United
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4140002
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Southampton vs Everton
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4140009
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Wolverhampton vs Crystal Palace
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4140006
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="LaLiga",Osasuna vs Real Valladolid
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4140295
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="LaLiga",Girona FC vs Leganés
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4140294
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Serie A",Bologna vs Lecce
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4149550
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Serie A",Udinese vs Juventus
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4149558
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Serie A",Monza vs Milan
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4149554
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Bundesliga",Eintracht Frankfurt vs VfL Bochum 1848
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4149017
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Bundesliga",FC Bayern München vs 1. FC Union Berlin
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4149014
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Bundesliga",Holstein Kiel vs 1. FC Heidenheim
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4149020
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Bundesliga",TSG Hoffenheim vs FC St. Pauli
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4149019
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Bundesliga",VfL Wolfsburg vs FC Augsburg
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4149021
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Bundesliga",Borussia Dortmund vs RB Leipzig
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4149016
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Ligue 1",Paris Saint-Germain vs RC Lens
-https://player.huminbird.cn/detail.html?v=400&type=1&pid=5&mid=4143767

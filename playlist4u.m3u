@@ -1,16 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Real Madrid Vs Pachuca
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="World Club Final",Real Madrid Vs Pachuca
 https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4248369
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Manchester City vs Manchester United
-https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4139891
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Arsenal Vs Crystal Palace
+https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4236896
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Chelsea vs Brentford
-https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4139887
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Southampton Vs Liverpool
+https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4236898
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Southampton vs Tottenham Hotspur
-https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4139898
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="League 1",Monaco Vs PSG
+https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4143870
 
 
 

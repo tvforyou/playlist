@@ -1,13 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="League Cup",Spur vs Manchester United
-https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4236899
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Europa CL",Chelsea vs Shamrock Rovers
-https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4206076
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Seri A",Inter Vs Udinese
-https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4219888
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Bundesliga",Bayern München Vs RB Leipzig
+https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4149270
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Seri A",Hellas Verona Vs Milan
+https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4149619
 
 
 

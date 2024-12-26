@@ -1,60 +1,26 @@
 #EXTM3U
 
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Manchester City vs Everton
+https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4139950
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Everton vs Chelsea
-https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4139914
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",AFC Bournemouth vs Crystal Palace
+https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4139936
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Fulham vs Southampton
-https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4139917
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Chelsea vs Fulham
+https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4139945
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Leicester City vs Wolverhampton Wanderers
-https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4139920
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Newcastle United vs Aston Villa
+https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4139952
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Manchester United vs AFC Bournemouth
-https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4139923
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Nottingham Forest vs Tottenham Hotspur
+https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4139955
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Tottenham Hotspur vs Liverpool
-https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4139926
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Southampton vs West Ham United
+https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4139958
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Wolverhampton Wanderers vs Manchester United
+https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4139961
 
-
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="La Liga",Valencia vs Deportivo Alavés
-https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4140346
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="La Liga",Real Madrid vs Sevilla
-https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4140345
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="La Liga",Leganés vs Villarreal
-https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4140343
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="La Liga",Las Palmas vs Espanyol
-https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4145393
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="La Liga",Real Betis vs Rayo Vallecano
-https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4140339
-
-
-
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Serie A",Roma vs Parma
-https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4149610
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Serie A",Venezia vs Cagliari
-https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4149618
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Serie A",Atalanta vs Empoli
-https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4149611
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Serie A",Monza vs Juventus
-https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4149616
-
-
-
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Bundesliga",VfL Bochum 1848 vs Heidenheim
-https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4149271
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Bundesliga",VfL Wolfsburg vs Borussia Dortmund
-https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4149277
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Liverpool vs Leicester City
+https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4139947

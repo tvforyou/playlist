@@ -1,32 +1,11 @@
 #EXTM3U
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Leicester City vs Manchester City
-https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4139980
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Aston Villa vs Brighton & Hove Albion
+https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4139964
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Crystal Palace vs Southampton
-https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4139969
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Ipswich Town vs Chelsea
+https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4139977
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Everton vs Nottingham Forest
-https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4139972
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Fulham vs AFC Bournemouth
-https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4139974
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Tottenham Hotspur vs Wolverhampton Wanderers
-https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4139987
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",West Ham United vs Liverpool
-https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4140097
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Serie A",Udinese vs Torino
-https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4149629
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Serie A",Napoli vs Venezia
-https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4149627
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Serie A",Juventus vs Fiorentina
-https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4149625
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Serie A",Milan vs Roma
-https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4149620
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Manchester United vs Newcastle United
+https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=7&mid=4139985

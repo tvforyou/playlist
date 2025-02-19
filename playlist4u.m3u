@@ -1,14 +1,16 @@
 #EXTM3U
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Aston Villa vs Liverpool
+https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=1&mid=4139953
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Champions League",AC Milan
-https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=1&mid=4280910
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Champions League",Borussia Dortmund vs Sporting CP
+https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=1&mid=4281875
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Champions League",Benfica
-https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=1&mid=4280904
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Champions League",Paris Saint Germain vs Brest
+https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=1&mid=4281872
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Champions League",Bayern
-https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=1&mid=4280906
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Champions League",PSV vs Juventus
+https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=1&mid=4281874
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Champions League",Atlanta
-https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=1&mid=4280907
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Champions League",Real Madrid vs Manchester City
+https://player.hdctgroup.cn/detail.html?v=405&type=1&pid=1&mid=4281873

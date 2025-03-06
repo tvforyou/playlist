@@ -1,16 +1,34 @@
 #EXTM3U
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="UCL",Aston Villa 
-https://player.hdctgroup.cn/detail.html?v=1740823174083&type=1&pid=0&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&mid=4291356
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="UCL",Arsenal
-https://player.hdctgroup.cn/detail.html?v=1740823174083&type=1&pid=0&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&mid=4291360
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Europa League",Real Sociedad x Manchester United
+https://player.hdctgroup.cn/detail.html?v=1740823174083&type=1&pid=0&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&mid=4291388
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Europa League",AZ x Tottenham Hotspur
+https://player.hdctgroup.cn/detail.html?v=1740823174083&type=1&pid=0&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&mid=4291379
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Europa League",Fenerbahçe x Rangers
+https://player.hdctgroup.cn/detail.html?v=1740823174083&type=1&pid=0&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&mid=4291376
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Europa League",FCSB x Olympique Lyonnais
+https://player.hdctgroup.cn/detail.html?v=1740823174083&type=1&pid=0&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&mid=4291386
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Europa League",Viktoria Plzeň x Lazio
+https://player.hdctgroup.cn/detail.html?v=1740823174083&type=1&pid=0&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&mid=4291381
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Europa League",Bodø / Glimt x Olympiacos F.C.
+https://player.hdctgroup.cn/detail.html?v=1740823174083&type=1&pid=0&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&mid=4291375
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Europa League",Ajax x Eintracht Frankfurt
+https://player.hdctgroup.cn/detail.html?v=1740823174083&type=1&pid=0&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&mid=4291377
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Europa League",Roma x Athletic Club
+https://player.hdctgroup.cn/detail.html?v=1740823174083&type=1&pid=0&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&mid=4291382
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="UCL",Real Madrid
-https://player.hdctgroup.cn/detail.html?v=1740823174083&type=1&pid=0&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&mid=4291361
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="UCL",Dortmund
-https://player.hdctgroup.cn/detail.html?v=1740823174083&type=1&pid=0&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&mid=4291357
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Europa Conference League",FC København x Chelsea
+https://player.hdctgroup.cn/detail.html?v=1740823174083&type=1&pid=0&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&mid=4291449

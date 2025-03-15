@@ -1,53 +1,70 @@
 #EXTM3U
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Chelsea x Leicester City
-https://player.hdctgroup.cn/detail.html?v=1740823174083&type=1&pid=0&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&mid=4139927
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Tottenham Hotspur x AFC Bournemouth
-https://player.hdctgroup.cn/detail.html?v=1740823174083&type=1&pid=0&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&mid=4139938
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Manchester United x Arsenal
-https://player.hdctgroup.cn/detail.html?v=1740823174083&type=1&pid=0&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&mid=4139933
-
- 
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="La Liga",Getafe x Atlético Madrid
-https://player.hdctgroup.cn/detail.html?v=1740823174083&type=1&pid=0&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&mid=4140424
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="La Liga",Real Madrid x Rayo Vallecano
-https://player.hdctgroup.cn/detail.html?v=1740823174083&type=1&pid=0&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&mid=4140425
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="La Liga",Athletic Club x Mallorca
-https://player.hdctgroup.cn/detail.html?v=1740823174083&type=1&pid=0&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&mid=4140421
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="La Liga",Real Betis x Las Palmas
-https://player.hdctgroup.cn/detail.html?v=1740823174083&type=1&pid=0&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&mid=4140422
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Everton x West Ham 
+https://player.yklsln.com/detail.html?v=1741790095654&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&mid=4139956
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="La Liga",Real Sociedad x Sevilla
-https://player.hdctgroup.cn/detail.html?v=1740823174083&type=1&pid=0&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&mid=4140426
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Ipswich x Nottingham
+https://player.yklsln.com/detail.html?v=1741790095654&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&mid=4139959
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Manchester City x Brighton
+https://player.yklsln.com/detail.html?v=1741790095654&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&mid=4139966
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Southampton x Wolves
+https://player.yklsln.com/detail.html?v=1741790095654&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&mid=4139970
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Bournemouth x Brentford
+https://player.yklsln.com/detail.html?v=1741790095654&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&mid=4139949
 
  
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Serie A",Hellas Verona x Bologna
-https://player.hdctgroup.cn/detail.html?v=1740823174083&type=1&pid=0&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&mid=4149748
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="La Liga",Valladolid x Celta de Vigo
+https://player.yklsln.com/detail.html?v=1741790095654&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&mid=4140434
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Serie A",Napoli x Fiorentina
-https://player.hdctgroup.cn/detail.html?v=1740823174083&type=1&pid=0&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&mid=4149746
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="La Liga",Mallorca x Espanyol
+https://player.yklsln.com/detail.html?v=1741790095654&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&mid=4145576
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Serie A",Empoli x Roma
-https://player.hdctgroup.cn/detail.html?v=1740823174083&type=1&pid=0&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&mid=4149741
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="La Liga",Villarreal x Real Madrid
+https://player.yklsln.com/detail.html?v=1741790095654&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&mid=4140435
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Serie A",Juventus x Atalanta
-https://player.hdctgroup.cn/detail.html?v=1740823174083&type=1&pid=0&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&mid=4149743
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="La Liga",Girona x Valencia
+https://player.yklsln.com/detail.html?v=1741790095654&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&mid=4140428
+
+ 
 
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Serie A",Monza x Parma
+https://player.yklsln.com/detail.html?v=1741790095654&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&mid=4149785
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Serie A",Udinese x Verona
+https://player.yklsln.com/detail.html?v=1741790095654&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&mid=4149787
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Serie A",Milan x Como
+https://player.yklsln.com/detail.html?v=1741790095654&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&mid=4149779
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Serie A",Torino x Empoli
+https://player.yklsln.com/detail.html?v=1741790095654&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&mid=4149786
+
+ 
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Bundesliga",Eintracht Frankfurt x FC Union Berlin
-https://player.hdctgroup.cn/detail.html?v=1740823174083&type=1&pid=0&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&mid=4149364
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Bundesliga",Werder Bremen x Mönchengladbach
+https://player.yklsln.com/detail.html?v=1741790095654&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&mid=4149377
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Bundesliga",TSG Hoffenheim x Heidenheim
-https://player.hdctgroup.cn/detail.html?v=1740823174083&type=1&pid=0&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&mid=4149366
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Bundesliga",Augsburg x VfL Wolfsburg
+https://player.yklsln.com/detail.html?v=1741790095654&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&mid=4149369
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Bundesliga",Mainz x Freiburg
+https://player.yklsln.com/detail.html?v=1741790095654&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&mid=4149372
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Bundesliga",Union Berlin x Bayern München
+https://player.yklsln.com/detail.html?v=1741790095654&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&mid=4149376
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Bundesliga",Leipzig x Dortmund
+https://player.yklsln.com/detail.html?v=1741790095654&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&mid=4149373

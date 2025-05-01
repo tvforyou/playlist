@@ -1,9 +1,23 @@
 #EXTM3U
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Champions League",Barca vs Inter
-https://player.daohangpage.com/detail.html?v=1745764673263&type=1&pid=1&isTips=1&isLogin=0&sbtcolor=27c5c3&pfont=65px&host=dszbok.com&isStandalone=false&mid=4321493
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Nottingham Forest vs Brentford
+https://player.daohangpage.com/detail.html?v=1746120780856&type=1&pid=1&isTips=1&isLogin=0&sbtcolor=27c5c3&pfont=65px&host=dszbok.com&isStandalone=false&mid=4140048
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Champions League",Barca vs Inter
-https://pull.dangaoka.com/live/stream-746673_lhd.m3u8
+
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Europa League",Tottenham Hotspur vs Bodø / Glimt
+https://player.daohangpage.com/detail.html?v=1746120780856&type=1&pid=1&isTips=1&isLogin=0&sbtcolor=27c5c3&pfont=65px&host=dszbok.com&isStandalone=false&mid=4321747
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Europa League",Athletic Club vs Manchester United
+https://player.daohangpage.com/detail.html?v=1746120780856&type=1&pid=1&isTips=1&isLogin=0&sbtcolor=27c5c3&pfont=65px&host=dszbok.com&isStandalone=false&mid=4321749
+
+
+
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Europa Conference League",Real Betis vs Fiorentina
+https://player.daohangpage.com/detail.html?v=1746120780856&type=1&pid=1&isTips=1&isLogin=0&sbtcolor=27c5c3&pfont=65px&host=dszbok.com&isStandalone=false&mid=4321740
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Europa Conference League",Djurgården vs Chelsea
+https://player.daohangpage.com/detail.html?v=1746120780856&type=1&pid=1&isTips=1&isLogin=0&sbtcolor=27c5c3&pfont=65px&host=dszbok.com&isStandalone=false&mid=4321746

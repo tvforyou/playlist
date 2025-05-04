@@ -1,75 +1,57 @@
 #EXTM3U
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Aston Villa vs Fulham
-https://player.daohangpage.com/detail.html?v=1745764673263&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&host=dszbok.com&isStandalone=true&mid=4140052
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Everton vs Ipswich Town
-https://player.daohangpage.com/detail.html?v=1745764673263&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&host=dszbok.com&isStandalone=true&mid=4140058
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",West Ham United vs Tottenham Hotspur
+https://player.daohangpage.com/detail.html?v=1745764673263&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&host=dszbok.com&isStandalone=ture&mid=4140061
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Brentford vs Manchester United
+https://player.daohangpage.com/detail.html?v=1745764673263&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&host=dszbok.com&isStandalone=ture&mid=4140053
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Leicester City vs Southampton
-https://player.daohangpage.com/detail.html?v=1745764673263&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&host=dszbok.com&isStandalone=true&mid=4140059
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Brighton & Hove Albion vs Newcastle United
+https://player.daohangpage.com/detail.html?v=1745764673263&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&host=dszbok.com&isStandalone=ture&mid=4140054
 
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Arsenal vs AFC Bournemouth
-https://player.daohangpage.com/detail.html?v=1745764673263&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&host=dszbok.com&isStandalone=true&mid=4140051
-
-
-
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="La Liga",Deportivo Alavés vs Atlético Madrid
-https://player.daohangpage.com/detail.html?v=1745764673263&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&host=dszbok.com&isStandalone=true&mid=4140477
-
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="La Liga",Villarreal vs Osasuna
-https://player.daohangpage.com/detail.html?v=1745764673263&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&host=dszbok.com&isStandalone=true&mid=4140484
-
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="La Liga",Las Palmas vs Valencia
-https://player.daohangpage.com/detail.html?v=1745764673263&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&host=dszbok.com&isStandalone=true&mid=4140479
-
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="La Liga",Real Valladolid vs FC Barcelona
-https://player.daohangpage.com/detail.html?v=1745764673263&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&host=dszbok.com&isStandalone=true&mid=4140552
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Premier League",Chelsea vs Liverpool
+https://player.daohangpage.com/detail.html?v=1745764673263&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&host=dszbok.com&isStandalone=ture&mid=4140055
 
 
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Serie A",Parma vs Como
-https://player.daohangpage.com/detail.html?v=1745764673263&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&host=dszbok.com&isStandalone=true&mid=4149817
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="La Liga",Real Madrid vs Celta de Vigo
+https://player.daohangpage.com/detail.html?v=1745764673263&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&host=dszbok.com&isStandalone=ture&mid=4140481
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="La Liga",Sevilla vs Leganés
+https://player.daohangpage.com/detail.html?v=1745764673263&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&host=dszbok.com&isStandalone=ture&mid=4140483
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Serie A",Cagliari vs Udinese
-https://player.daohangpage.com/detail.html?v=1745764673263&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&host=dszbok.com&isStandalone=true&mid=4149811
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="La Liga",Espanyol vs Real Betis
+https://player.daohangpage.com/detail.html?v=1745764673263&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&host=dszbok.com&isStandalone=ture&mid=4145582
 
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Serie A",Lecce vs Napoli
-https://player.daohangpage.com/detail.html?v=1745764673263&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&host=dszbok.com&isStandalone=true&mid=4149815
-
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Serie A",Inter vs Hellas Verona
-https://player.daohangpage.com/detail.html?v=1745764673263&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&host=dszbok.com&isStandalone=true&mid=4149814
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="La Liga",Real Sociedad vs Athletic Club
+https://player.daohangpage.com/detail.html?v=1745764673263&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&host=dszbok.com&isStandalone=ture&mid=4140482
 
 
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Bundesliga",RB Leipzig vs FC Bayern München
-https://player.daohangpage.com/detail.html?v=1745764673263&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&host=dszbok.com&isStandalone=true&mid=4149429
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Serie A",Empoli vs Lazio
+https://player.daohangpage.com/detail.html?v=1745764673263&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&host=dszbok.com&isStandalone=ture&mid=4149812
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Serie A",Monza vs Atalanta
+https://player.daohangpage.com/detail.html?v=1745764673263&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&host=dszbok.com&isStandalone=ture&mid=4149816
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Serie A",Roma vs Fiorentina
+https://player.daohangpage.com/detail.html?v=1745764673263&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&host=dszbok.com&isStandalone=ture&mid=4149809
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Serie A",Bologna vs Juventus
+https://player.daohangpage.com/detail.html?v=1745764673263&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&host=dszbok.com&isStandalone=ture&mid=4149810
 
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Bundesliga",Borussia Mönchengladbach vs TSG Hoffenheim
-https://player.daohangpage.com/detail.html?v=1745764673263&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&host=dszbok.com&isStandalone=true&mid=4149424
 
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Bundesliga",FC Augsburg vs Holstein Kiel
+https://player.daohangpage.com/detail.html?v=1745764673263&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&host=dszbok.com&isStandalone=ture&mid=4149423
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Bundesliga",FC Union Berlin vs Werder Bremen
-https://player.daohangpage.com/detail.html?v=1745764673263&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&host=dszbok.com&isStandalone=true&mid=4149431
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Bundesliga",SC Freiburg vs Leverkusen
+https://player.daohangpage.com/detail.html?v=1745764673263&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&host=dszbok.com&isStandalone=ture&mid=4149426
 
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Bundesliga",St. Pauli vs VfB Stuttgart
-https://player.daohangpage.com/detail.html?v=1745764673263&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&host=dszbok.com&isStandalone=true&mid=4149430
-
-
-#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Bundesliga",Borussia Dortmund vs VfL Wolfsburg
-https://player.daohangpage.com/detail.html?v=1745764673263&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&host=dszbok.com&isStandalone=true&mid=4149425
+#EXTINF:-1 iso-id="QA" tvg-logo="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" group-title="Bundesliga",FSV Mainz 05 vs Eintracht Frankfurt
+https://player.daohangpage.com/detail.html?v=1745764673263&type=1&pid=1&isTips=1&isLogin=1&sbtcolor=27c5c3&pfont=65px&host=dszbok.com&isStandalone=ture&mid=4149428
